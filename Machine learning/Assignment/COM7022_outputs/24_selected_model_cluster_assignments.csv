@@ -1,0 +1,998 @@
+Item_Name,Catatory,category_group,price,sold,available,currency_status,itemLocation,cluster,cluster_name
+Dior,Eau de Parfum,Eau de Parfum,84.99,116.0,10.0,USD,"Allen Park, Michigan, United States",1,Cluster 1
+AS SHOW,Eau de Parfum,Eau de Parfum,109.99,48.0,8.0,USD,"Atlanta, Georgia, Canada",1,Cluster 1
+Unbranded,Eau de Toilette,Eau de Toilette,100.0,27.0,10.0,USD,"Dearborn, Michigan, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,44.99,159.0,2.0,USD,"Reinholds, Pennsylvania, United States",1,Cluster 1
+Lattafa,Fragrances,General Fragrance,16.91,156.0,,Unknown,"Brooklyn, New York, United States",0,Cluster 0
+Multiple Brands,Perfume,Perfume / Parfum,14.99,79.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Maison Alhambra,Eau de Parfum,Eau de Parfum,30.99,39.0,9.0,USD,"Englewood Cliffs, New Jersey, United States",1,Cluster 1
+Unbranded,Eau de Parfum,Eau de Parfum,85.0,7654.0,1.0,USD,"Ithaca, New York, United States",0,Cluster 0
+Unbranded,/,Other / Unclear,15.89,17.0,10.0,USD,"shanghai, China",1,Cluster 1
+Gucci,Eau de Parfum,Eau de Parfum,49.99,68.0,8.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,34.99,615.0,10.0,USD,"Ecorse, Michigan, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,29.95,458.0,7.0,USD,"Warren, Michigan, United States",0,Cluster 0
+SECERTMU,Perfume,Perfume / Parfum,15.99,889.0,10.0,USD,"San Francisco, California, United States",0,Cluster 0
+As Show,Eau de Parfum,Eau de Parfum,59.99,63.0,9.0,USD,"Dayton,New Jersey, Hong Kong",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,34.99,136.0,7.0,USD,"Warren, Michigan, United States",0,Cluster 0
+Paco Rabanne,PARFUM,Perfume / Parfum,68.99,20.0,2.0,USD,"San Jose, California, United States",1,Cluster 1
+Grandeur,Eau de Parfum,Eau de Parfum,37.99,44.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Armaf,Eau de Toilette,Eau de Toilette,29.99,384.0,5.0,USD,"Hamtramck, Michigan, United States",0,Cluster 0
+Carolina Herrera,Eau de Toilette,Eau de Toilette,39.99,236.0,10.0,USD,"Flat Lick, Kentucky, United States",0,Cluster 0
+Dior,Eau de Toilette,Eau de Toilette,83.95,22.0,4.0,USD,"Elmhurst, New York, United States",1,Cluster 1
+Dolce & Gabbana,Eau de Toilette,Eau de Toilette,29.94,9208.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Clinique,Eau de Toilette,Eau de Toilette,21.99,86.0,4.0,USD,"Miami, Florida, United States",1,Cluster 1
+Dumont,Fragrances,General Fragrance,49.99,187.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Afnan,Eau de Parfum,Eau de Parfum,33.7,131.0,10.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Versace,Eau de Toilette,Eau de Toilette,35.99,43.0,2.0,USD,"Pomona, California, United States",1,Cluster 1
+Azzaro,Parfum,Perfume / Parfum,89.97,920.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Unbranded,Eau de Parfum,Eau de Parfum,92.99,19.0,5.0,USD,"College Point, New York, United States",1,Cluster 1
+Azzaro,Eau de Parfum,Eau de Parfum,87.99,4.0,2.0,USD,"NEW YORK, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,119.99,34.0,10.0,USD,"New York,USA, Hong Kong",1,Cluster 1
+Penhaligon's,Eau de Parfum,Eau de Parfum,99.99,30.0,1.0,USD,"Brenham, Texas, United States",1,Cluster 1
+Bharara,Eau de Parfum,Eau de Parfum,51.91,47.0,4.0,USD,"Richmond Hill, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,49.99,170.0,8.0,USD,"Dexter, Michigan, United States",0,Cluster 0
+Armaf,Eau de Toilette,Eau de Toilette,32.85,8385.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Valentino,Eau de Toilette,Eau de Toilette,89.97,295.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Guy Laroche,Eau de Toilette,Eau de Toilette,16.98,2345.0,620.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Montblanc,Eau de Toilette,Eau de Toilette,32.89,5032.0,383.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Rasasi,Eau de Parfum,Eau de Parfum,45.11,258.0,,USD,"Brooklyn, New York, United States",0,Cluster 0
+Maison Alhambra,Fragrances,General Fragrance,19.73,55.0,,USD,"Brooklyn, New York, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,39.99,276.0,8.0,USD,"Phoenix, Arizona, United States",0,Cluster 0
+Calvin Klein,Eau de Toilette,Eau de Toilette,40.6,5582.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+UOMO,Eau de Toilette,Eau de Toilette,54.99,8.0,1.0,USD,"Peekskill, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,40.99,37.0,10.0,USD,"College Point, New York, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,34.84,4460.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Givenchy,Eau de Toilette,Eau de Toilette,34.72,627.0,71.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Azzaro,Eau de Toilette,Eau de Toilette,46.33,30655.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Armaf,Eau de Parfum,Eau de Parfum,39.0,24.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,21.54,989.0,96.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,32.97,5023.0,756.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,23.34,972.0,452.0,USD,"Dallas, Texas, United States",0,Cluster 0
+C.K,Eau de Toilette,Eau de Toilette,28.75,12739.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+John Varvatos,Eau de Toilette,Eau de Toilette,27.94,485.0,161.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Afnan,Eau de Parfum,Eau de Parfum,32.5,372.0,5.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Nautica,Eau de Toilette,Eau de Toilette,14.99,291.0,3.0,USD,"Armada, Michigan, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,45.95,578.0,5.0,USD,"Kalamazoo, Michigan, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,68.99,99.0,2.0,USD,"Charlotte, North Carolina, United States",1,Cluster 1
+As Picture Show,Eau de Parfum,Eau de Parfum,69.99,44.0,56.0,USD,"Dayton, New Jersey, United States",0,Cluster 0
+SECERTMU,Perfume,Perfume / Parfum,13.99,290.0,10.0,USD,"San Francisco, California, United States",0,Cluster 0
+Versace,Eau de Toilette,Eau de Toilette,36.88,19899.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Kenneth Cole,Eau de Toilette,Eau de Toilette,24.7,12865.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Tommy Hilfiger,Eau de Toilette,Eau de Toilette,26.11,12184.0,4.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,14.99,172.0,10.0,USD,"Perth Amboy, New Jersey, United States",0,Cluster 0
+2nd To None,Concentrated Uncut Pure Body Oil,Body Care / Oil,6.65,18882.0,9.0,USD,"LaGrange, Georgia, United States",0,Cluster 0
+Dior,Eau de Parfum,Eau de Parfum,25.99,1332.0,6.0,USD,"Cranston, Rhode Island, United States",0,Cluster 0
+Yves Saint Laurent,LE PARFUM,Perfume / Parfum,60.99,35.0,2.0,USD,"Las Vegas, Nevada, United States",1,Cluster 1
+Yves Saint Laurent,Eau De Parfum,Eau de Parfum,47.88,25.0,10.0,USD,"Sacramento, California, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,31.08,1362.0,842.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Armaf,Fragrances,General Fragrance,24.43,110.0,,USD,"Brooklyn, New York, United States",0,Cluster 0
+Versace,Eau de Toilette,Eau de Toilette,35.99,221.0,5.0,USD,"Dayton, New Jersey, Canada",0,Cluster 0
+Rasasi,Eau de Parfum,Eau de Parfum,25.99,3.0,10.0,USD,"Windsor Mill, Maryland, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,38.57,1503.0,484.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Azzaro,Eau de Toilette,Eau de Toilette,24.45,1691.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Azzaro,Eau de Toilette,Eau de Toilette,16.26,644.0,12.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,22.5,2.0,10.0,USD,"Mesa, Arizona, United States",1,Cluster 1
+Lattafa,Fragrances,General Fragrance,15.03,44.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,8.32,417.0,322.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,37.8,300.0,8.0,USD,"West Orange, New Jersey, United States",0,Cluster 0
+Calvin Klein,Eau de Toilette,Eau de Toilette,23.56,24048.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Guy Laroche,Eau de Toilette,Eau de Toilette,27.59,4972.0,323.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,26.5,3.0,3.0,USD,"Henrico, Virginia, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,35.71,36.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,15.99,594.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Calvin Klein,,Other / Unclear,23.89,54052.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Cologne,Eau de Parfum,Eau de Parfum,10.99,179.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,70.99,52.0,2.0,USD,"Pfafftown, North Carolina, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,16.99,404.0,10.0,USD,"CA, United States",0,Cluster 0
+AS SHOWN,Eau de Parfum,Eau de Parfum,126.99,32.0,1.0,USD,"USA,California, Hong Kong",1,Cluster 1
+Roja,Fragrances,General Fragrance,159.99,30.0,10.0,USD,"New York, New York, Taiwan",1,Cluster 1
+MetaHerbal Labs,Unscented,Other / Unclear,39.95,353.0,10.0,USD,"Orange, Connecticut, United States",0,Cluster 0
+Mirage Brands,Eau de Toilette,Eau de Toilette,13.66,552.0,10.0,USD,"Hephzibah, Georgia, United States",0,Cluster 0
+Carolina Herrera,Eau de Toilette,Eau de Toilette,54.99,780.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,14.99,358.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Abercrombie & Fitch,Eau de Cologne,Cologne,29.99,87.0,9.0,USD,"Phoenix, Arizona, United States",1,Cluster 1
+Valentino,Eau de Toilette,Eau de Toilette,89.99,23.0,6.0,USD,"El Cajon, California, Hong Kong",1,Cluster 1
+As Show,Eau de Parfum,Eau de Parfum,109.99,24.0,3.0,USD,"California,United States, Hong Kong, Hong Kong",1,Cluster 1
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,92.56,2293.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Unbranded,/,Other / Unclear,15.89,8.0,6.0,USD,"shanghai, China",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,59.99,14.0,10.0,USD,"Hamtramck, Michigan, United States",1,Cluster 1
+Cologne,Perfume,Perfume / Parfum,85.0,42.0,4.0,USD,"Fresh Meadows, New York, United States",1,Cluster 1
+Unbranded,Eau de Toilette,Eau de Toilette,13.86,1146.0,10.0,USD,"Cumming, Georgia, United States",0,Cluster 0
+Moschino,Eau de Parfum,Eau de Parfum,29.99,17.0,5.0,USD,"Hamtramck, Michigan, United States",1,Cluster 1
+Nautica,Eau de Toilette,Eau de Toilette,17.99,324.0,3.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+Valentino,Eau de Toilette,Eau de Toilette,79.99,316.0,10.0,USD,"Walnut, California, Hong Kong",0,Cluster 0
+AS SHOW,Eau de Parfum,Eau de Parfum,69.99,157.0,10.0,USD,"Dayton, New Jersey, Hong Kong",1,Cluster 1
+Dior,Eau de Parfum,Eau de Parfum,84.99,73.0,5.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+As Shown,Eau de Parfum,Eau de Parfum,49.99,45.0,5.0,USD,"Ottawa,California, Canada",1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,33.95,464.0,8.0,USD,"Phoenix, Arizona, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,24.5,4.0,2.0,USD,"Henrico, Virginia, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,49.96,19.0,6.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,34.99,225.0,7.0,USD,"Highland Park, Michigan, United States",0,Cluster 0
+Azzaro,Eau de Toilette,Eau de Toilette,26.97,424.0,33.0,USD,"Dallas, Texas, United States",0,Cluster 0
+~ DOLCE & GABBANA ~,~ THE ONE EAU DE PARFUM SPRAY ~,Eau de Parfum,54.99,22.0,2.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,30.0,270.0,2.0,USD,"Carlsbad, California, United States",1,Cluster 1
+As picture show,Eau de Parfum,Eau de Parfum,189.99,32.0,2.0,USD,"Livingston Manor, New York, United States",1,Cluster 1
+Superz Budapest,EXTRAIT DE PARFUM,Perfume / Parfum,125.0,28.0,10.0,USD,"Hollywood, Florida, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,29.99,169.0,8.0,USD,"Laughlin, Nevada, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,28.91,849.0,48.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,15.99,14.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Gianni Versace,Eau de Toilette,Eau de Toilette,25.43,1925.0,116.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce & Gabbana,Eau de Parfum,Eau de Parfum,11.0,702.0,10.0,USD,"Albany, New York, United States",0,Cluster 0
+Christian Dior,Parfum,Perfume / Parfum,161.99,129.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,40.99,16.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+HERMÈS,Eau de Toilette,Eau de Toilette,58.99,3.0,1.0,USD,"New York, New York, United States",1,Cluster 1
+AS SHOWN,Eau de Toilette,Eau de Toilette,48.99,101.0,10.0,USD,"Hong Kong, Hong Kong",1,Cluster 1
+Diesel,Eau de Toilette,Eau de Toilette,17.0,147.0,6.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,65.97,37.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Lacoste,Eau De Toilette,Eau de Toilette,36.68,9.0,10.0,USD,"Austin, Texas, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,49.99,165.0,10.0,USD,"Flat Lick, Kentucky, United States",0,Cluster 0
+Dossier,Eau de Parfum,Eau de Parfum,20.0,23.0,8.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Burberry,Fragrances,General Fragrance,77.07,55.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,64.99,235.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Yves Saint Laurent,PARFUM,Perfume / Parfum,59.99,20.0,3.0,USD,"Lubbock, Texas, United States",1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,39.99,275.0,3.0,USD,"Carlsbad, California, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,36.99,98.0,2.0,USD,"College Point, New York, United States",1,Cluster 1
+Michael Malul,Eau de Parfum,Eau de Parfum,79.99,18.0,6.0,USD,"Jonesboro, Georgia, United States",1,Cluster 1
+Zara,Eau de Parfum,Eau de Parfum,37.5,30.0,1.0,USD,"Englewood, New Jersey, United States",1,Cluster 1
+Aramis,Eau de Toilette,Eau de Toilette,21.01,2486.0,272.0,USD,"Dallas, Texas, United States",0,Cluster 0
+SECERTMU,Perfume,Perfume / Parfum,6.97,803.0,10.0,USD,"San Francisco, California, United States",0,Cluster 0
+Yves Saint Laurent,Eau De Parfum Intense,Eau de Parfum,65.68,11.0,10.0,USD,"Sacramento, California, United States",1,Cluster 1
+AS SHOW,,Other / Unclear,89.99,5.0,5.0,USD,"New York,United States, Hong Kong",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,51.99,73.0,10.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+HERMÈS,Eau de Parfum,Eau de Parfum,28.99,23.0,1.0,USD,"Philadelphia, Pennsylvania, United States",1,Cluster 1
+Yves Saint Laurent,LE PARFUM,Perfume / Parfum,60.99,27.0,2.0,USD,"Santa Cruz, California, United States",1,Cluster 1
+Davidoff,Eau de Toilette,Eau de Toilette,34.98,849.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Davidoff,Eau de Toilette,Eau de Toilette,25.49,64.0,4.0,USD,"Baltimore, Maryland, United States",1,Cluster 1
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,41.99,38.0,2.0,USD,"Reinholds, Pennsylvania, United States",1,Cluster 1
+As Picture Shown,Eau de Parfum,Eau de Parfum,99.99,8.0,4.0,USD,"HongKong, Hong Kong",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,27.3,179.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,48.0,7.0,10.0,USD,"Webster, Florida, United States",1,Cluster 1
+Bvlgari,Eau De Toilette,Eau de Toilette,45.68,5.0,10.0,USD,"Sacramento, California, United States",1,Cluster 1
+Christian Dior,Eau de Parfum,Eau de Parfum,159.99,160.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,17.99,3.0,10.0,USD,"Shenzhen, China",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,35.99,4520.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Dossier,Eau de Parfum,Eau de Parfum,20.0,,10.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Parfums de Marly,Eau de Parfum,Eau de Parfum,82.99,5.0,3.0,USD,"College Point, New York, United States",1,Cluster 1
+SECERTMU,Pheromone,General Fragrance,11.99,11.0,10.0,USD,"San Francisco, California, United States",1,Cluster 1
+Salvatore Ferragamo,Eau de Toilette,Eau de Toilette,32.99,10.0,1.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,28.99,111.0,9.0,USD,"College Point, New York, United States",0,Cluster 0
+MontBlanc,Fragrances,General Fragrance,35.71,30.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,39.99,76.0,3.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,410.0,10.0,USD,"Melvindale, Michigan, United States",0,Cluster 0
+Ard Al Zaafaran,Fragrances,General Fragrance,17.85,29.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Karl Lagerfeld,Eau de Toilette,Eau de Toilette,16.91,825.0,6.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,69.99,81.0,2.0,USD,"Thomasville, Alabama, United States",1,Cluster 1
+Davidoff,Eau de Toilette,Eau de Toilette,38.24,13549.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+J. Del Pozo,Eau de Toilette,Eau de Toilette,30.99,866.0,10.0,USD,"Brooklyn, New York, United States",0,Cluster 0
+Sean John,Eau de Toilette,Eau de Toilette,29.99,471.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+AS PICTURE SHOWN,Eau de Parfum,Eau de Parfum,125.99,15.0,1.0,USD,"Livingston Manor, New York, United States",1,Cluster 1
+YSL,Eau de Parfum,Eau de Parfum,39.99,9.0,3.0,USD,"Ontario, California, United States, Hong Kong",1,Cluster 1
+Dolce & Gabbana,Eau de Toilette,Eau de Toilette,36.36,771.0,226.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Abercrombie & Fitch,Eau de Cologne,Cologne,49.99,916.0,7.0,USD,"Melvindale, Michigan, United States",0,Cluster 0
+Nautica,Eau de Toilette,Eau de Toilette,33.45,1391.0,127.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Abercrombie & Fitch,Aftershave,Body Care / Oil,44.0,24.0,2.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Jaguar,Eau de Toilette,Eau de Toilette,15.4,3942.0,224.0,USD,"Dallas, Texas, United States",0,Cluster 0
+EBC,Eau de Cologne,Cologne,13.5,17.0,10.0,USD,"Hialeah, Florida, United States",1,Cluster 1
+Azzaro,Eau de Toilette,Eau de Toilette,27.94,1140.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Montblanc,Eau de Toilette,Eau de Toilette,52.62,5098.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Dolce & Gabbana,Eau De Toilette,Eau de Toilette,50.08,182.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Bath & Body Works,Eau de Cologne,Cologne,28.95,5.0,1.0,USD,"Chesapeake, Virginia, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,12.2,5.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,28.93,4764.0,44.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Issey Miyake,Eau de Toilette,Eau de Toilette,54.92,2465.0,124.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,34.99,17.0,7.0,USD,"Highland Park, Michigan, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,25.98,1536.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+King,Fragrance & Perfume,Perfume / Parfum,74.8,430.0,1.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,39.77,31718.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Prada,Eau de Toilette,Eau de Toilette,86.87,322.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Cologne,Eau de Toilette,Eau de Toilette,10.99,1044.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,204.0,9.0,USD,"Farmington, Michigan, United States",0,Cluster 0
+Versace,Eau de Toilette,Eau de Toilette,44.94,21310.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Valentino,Eau de Parfum,Eau de Parfum,18.99,8.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+HUGO BOSS,Eau de Toilette,Eau de Toilette,17.95,75.0,10.0,USD,"Des Moines, Iowa, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.95,1484.0,6.0,USD,"Warren, Michigan, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,36.99,257.0,9.0,USD,"Laughlin, Nevada, United States",0,Cluster 0
+Mont Blanc,Eau de Perfume,Perfume / Parfum,36.81,1234.0,207.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dossier,Eau de Parfum,Eau de Parfum,15.0,12.0,10.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,49.99,243.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+BHARARA,Eau de Parfum,Eau de Parfum,53.99,512.0,9.0,USD,"Melissa, Texas, United States",0,Cluster 0
+Tommy Bahama,Eau de Cologne,Cologne,22.98,18.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Mont Blanc,Eau de Toilette,Eau de Toilette,22.24,1424.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,28.5,566.0,6.0,USD,"Grand Rapids, Michigan, United States",0,Cluster 0
+Armaf,Eau de Parfum,Eau de Parfum,29.0,57.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Paul Sebastian,Eau de Cologne,Cologne,17.12,597.0,310.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Halloween,Fragrances,General Fragrance,30.07,25.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Boucheron,Eau de Parfum,Eau de Parfum,32.89,61.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Thierry Mugler,Eau de Toilette,Eau de Toilette,59.99,221.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Jo Malone,Jo Malone Cologne Intense Spray,Cologne,63.99,6.0,2.0,USD,"Harwood Heights, Illinois, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,38.99,40.0,5.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,233.0,6.0,USD,"Macomb, Michigan, United States",0,Cluster 0
+ISSEY MIYAKE,Eau de Toilette,Eau de Toilette,54.91,2206.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Parfums de Marly,Eau de Parfum,Eau de Parfum,124.96,151.0,10.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Unbranded,Y,Other / Unclear,49.99,68.0,8.0,USD,"New Jersey, United States",1,Cluster 1
+Khadlaj,Eau de Parfum,Eau de Parfum,54.86,4.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+HERMÈS,Eau de Toilette,Eau de Toilette,99.99,65.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Bath & Body Works,Eau de Cologne,Cologne,35.68,12.0,9.0,USD,"Chesapeake, Virginia, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,44.99,14.0,6.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Louis Vuitton,Eau de Parfum,Eau de Parfum,21.95,448.0,10.0,USD,"Pearland, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,588.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,63.69,4733.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Creed,Eau De Parfum,Eau de Parfum,259.09,456.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+MFK,Eau de Parfum,Eau de Parfum,119.99,13.0,6.0,USD,"California USA Taiwan, Taiwan",1,Cluster 1
+Hermes,Fragrances,General Fragrance,19.73,20.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,31.99,56.0,5.0,USD,"Ecorse, Michigan, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,28.79,45.0,9.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+fragrance,Eau de Parfum,Eau de Parfum,46.99,3.0,2.0,USD,"New City, New York, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,8.84,9410.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Jean Paul Gaultier,Eau de Parfum,Eau de Parfum,94.99,1024.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Yves Saint Laurent,Perfume,Perfume / Parfum,94.99,581.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,70.66,720.0,199.0,USD,"Dallas, Texas, United States",0,Cluster 0
+AS SHOWN,Eau de Toilette,Eau de Toilette,52.99,34.0,5.0,USD,"USA,California, Hong Kong",1,Cluster 1
+CHANEL,Eau de Parfum,Eau de Parfum,129.0,11.0,3.0,USD,"Houston, Texas, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,51.99,248.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+Roja,Gift Sets,Gift Set,202.95,18.0,2.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Maison Alhambra,Fragrances,General Fragrance,19.73,18.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Lalique,Eau De Parfum,Eau de Parfum,57.46,202.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,45.49,116.0,2.0,USD,"Cincinnati, Ohio, United States",1,Cluster 1
+Penhaligon's,Eau de Toilette,Eau de Toilette,55.0,1.0,4.0,USD,"Melbourne, Florida, United States",1,Cluster 1
+Dior,Eau de Toilette,Eau de Toilette,84.99,16.0,9.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Liz Claiborne,Eau de Toilette,Eau de Toilette,27.03,1337.0,101.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Bvlgari,Eau de Toilette,Eau de Toilette,45.69,31.0,8.0,USD,"Houston, Texas, HongKong, China",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,12.98,103.0,10.0,USD,"Perth Amboy, New Jersey, United States",0,Cluster 0
+By Al Hambra,Eau de Parfum,Eau de Parfum,25.7,72.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,45.99,101.0,1.0,USD,"Pfafftown, North Carolina, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,47.99,8877.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,32.0,445.0,4.0,USD,"Bethpage, New York, United States",0,Cluster 0
+Joop,Fragrances,General Fragrance,38.53,33.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,37.99,26.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+CHANEL,Parfum,Perfume / Parfum,13.89,239.0,3.0,USD,"Phillipsburg, New Jersey, United States",0,Cluster 0
+As shown,Eau de Toilette,Eau de Toilette,49.99,24.0,5.0,USD,"Hongkong/California, Hong Kong",1,Cluster 1
+Ted Lapidus,Fragrances,General Fragrance,28.65,9.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Dossier,Eau de Parfum,Eau de Parfum,29.0,19.0,1.0,USD,"Los Angeles, California, United States",1,Cluster 1
+AS SHOW,Eau de Toilette,Eau de Toilette,35.99,51.0,10.0,USD,"New York,USA, Hong Kong",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,39.99,16.0,10.0,USD,"Ecorse, Michigan, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,31.99,44.0,6.0,USD,"Dearborn, Michigan, United States",1,Cluster 1
+Versace,Eau de Parfum,Eau de Parfum,36.99,37.0,9.0,USD,"Toronto,Ontario, Canada",1,Cluster 1
+Unbranded,Eau de Parfum,Eau de Parfum,54.99,6.0,2.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Unbranded,Fragrance Rolling Ball,Body Care / Oil,15.99,62.0,10.0,USD,"Los Angeles, California, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,39.99,118.0,10.0,USD,"Southgate, Michigan, United States",0,Cluster 0
+Dolce & Gabbana,Eau De Parfum,Eau de Parfum,69.02,370.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Dossier,Eau de Parfum,Eau de Parfum,22.99,52.0,10.0,USD,"Bogota, New Jersey, United States",1,Cluster 1
+AXE,Body Spray,Body Care / Oil,11.99,15.0,5.0,USD,"Euless, Texas, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,29.99,51.0,7.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+Azzaro,Eau de Toilette,Eau de Toilette,18.1,210.0,84.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Calvin Klein,Eau de Toilette,Eau de Toilette,28.99,124.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,57.17,210.0,7.0,USD,"Dallas, Texas, United States",1,Cluster 1
+as showed,Eau de Toilette,Eau de Toilette,9.61,17.0,1.0,USD,"New York, Hong Kong",1,Cluster 1
+Paco Rabanne,Eau de toilette,Eau de Toilette,39.99,3.0,3.0,USD,"27704, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,138.99,6.0,4.0,USD,"New York,United States, Hong Kong",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,44.49,4.0,5.0,USD,"Flat Lick, Kentucky, United States",1,Cluster 1
+Afnan,Fragrances,General Fragrance,23.49,14.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,179.0,10.0,USD,"Ecorse, Michigan, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,22.99,14.0,6.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Versace,Gift Sets,Gift Set,29.19,1787.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Lomani,Eau de Toilette,Eau de Toilette,16.39,1630.0,31.0,USD,"Dallas, Texas, United States",0,Cluster 0
+king of kings,Perfume,Perfume / Parfum,79.99,43.0,7.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+SECERTMU,Perfume,Perfume / Parfum,7.96,38.0,10.0,USD,"San Francisco, California, United States",0,Cluster 0
+Paco Rabanne,PARFUM,Perfume / Parfum,69.99,2.0,9.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toillette,Eau de Toilette,92.0,37.0,3.0,USD,"NEW YORK, United States",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,39.99,25.0,6.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+AS SHOWN,Eau de Parfum,Eau de Parfum,49.99,43.0,5.0,USD,"USA,California, Hong Kong",1,Cluster 1
+Afnan,Eau de Parfum,Eau de Parfum,25.86,55.0,13.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Dolce & Gabbana,"Eau De Toilette, Eau De Parfum, Eau De Parfum Intense",Mixed Concentrations,16.0,41.0,10.0,USD,"Albany, New York, United States",0,Cluster 0
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,92.0,29.0,3.0,USD,"NEW YORK, United States",1,Cluster 1
+Ralph Lauren,Eau de Parfum,Eau de Parfum,89.25,39.0,10.0,USD,"Lynwood, California, United States",1,Cluster 1
+Dior,Eau de Toilette,Eau de Toilette,84.99,13.0,9.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,28.25,12583.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,15.99,20.0,10.0,USD,"Woodbridge, Virginia, United States",1,Cluster 1
+Dior,Eau de Toilette,Eau de Toilette,84.99,51.0,10.0,USD,"Sterling Heights, Michigan, United States",1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,38.99,919.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+rue21,Cologne,Cologne,25.0,22.0,4.0,USD,"Chesapeake, Virginia, United States",1,Cluster 1
+Unbranded,Eau de Toilette,Eau de Toilette,39.99,18.0,5.0,USD,"California, United States, Hong Kong",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,19.95,6.0,10.0,USD,"Stafford, Texas, United States",1,Cluster 1
+Roja Dove,Eau de Parfum,Eau de Parfum,129.99,25.0,6.0,USD,"Pomona, California, United States",1,Cluster 1
+Tommy Hilfiger,Eau de Toilette,Eau de Toilette,31.99,40.0,1.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,15.99,655.0,10.0,USD,"New York, New York, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,46.48,7.0,8.0,USD,"Houston, Texas,HongKong, China",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,18.99,139.0,10.0,USD,"Falls Church, Virginia, United States",0,Cluster 0
+Tom Ford,Eau de Parfum,Eau de Parfum,116.54,262.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Louis Vuitton,Eau de Parfum,Eau de Parfum,22.95,647.0,9.0,USD,"Pearland, Texas, United States",0,Cluster 0
+BHARARA,Perfume,Perfume / Parfum,71.49,31.0,4.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Davidoff,Eau de Toilette,Eau de Toilette,24.49,71.0,4.0,USD,"Las Vegas, Nevada, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,15.99,7.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,34.99,457.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+Cologne,Eau de Cologne,Cologne,41.99,15.0,10.0,USD,"Fredericksburg, Virginia, United States",1,Cluster 1
+Al Wataniah,Eau de Parfum,Eau de Parfum,35.0,36.0,10.0,USD,"Englewood Cliffs, New Jersey, United States",1,Cluster 1
+HERMÈS,Eau de Parfum,Eau de Parfum,8.49,131.0,5.0,USD,"Phillipsburg, New Jersey, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,31.99,103.0,10.0,USD,"Southgate, Michigan, United States",0,Cluster 0
+Gucci,Eau de Parfum,Eau de Parfum,49.99,78.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Joop,Fragrances,General Fragrance,23.49,29.0,1.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,30.95,36.0,6.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+Aramis,Eau de Toilette,Eau de Toilette,19.99,8.0,3.0,USD,"Oneida, Tennessee, United States",1,Cluster 1
+MACARENA,Eau de Parfum,Eau de Parfum,19.99,122.0,10.0,USD,"North Brunswick, New Jersey, United States",0,Cluster 0
+Bentley,Eau de Parfum,Eau de Parfum,29.12,5145.0,1.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Versace,Eau de Toilette,Eau de Toilette,39.99,4.0,3.0,USD,"Egg Harbor Township, New Jersey, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,38.25,363.0,10.0,USD,"Ecorse, Michigan, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,48.95,969.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+Azzaro,Eau de Parfum,Eau de Parfum,93.05,21.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Valentino,Eau de Toilette,Eau de Toilette,36.99,32.0,1.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,27.5,427.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Coach,Eau de Toilette,Eau de Toilette,36.15,7592.0,487.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,44.99,27.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Coty,Cologne,Cologne,16.9,34.0,4.0,USD,"Midway City, California, United States",1,Cluster 1
+Azzaro,Eau de Parfum,Eau de Parfum,9.99,19.0,10.0,USD,"San Gabriel, California, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,19.99,4.0,3.0,USD,"Las Vegas, Nevada, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,43.45,955.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Tommy Bahama,Eau de Cologne,Cologne,31.95,10.0,2.0,USD,"TX, United States",1,Cluster 1
+Bharara,Eau de Parfum,Eau de Parfum,78.99,142.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,25.79,11.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Lanvin,Eau de Toilette,Eau de Toilette,17.99,1955.0,138.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Yves Saint Laurent,le parfum,Perfume / Parfum,60.99,16.0,2.0,USD,"Houston, Texas, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,41.98,4234.0,66.0,USD,"Dallas, Texas, United States",0,Cluster 0
+As Picture Show,Perfume,Perfume / Parfum,124.99,13.0,4.0,USD,"Taiwan, Taiwan",1,Cluster 1
+Cologne,Eau de Toilette,Eau de Toilette,19.9,294.0,10.0,USD,"Rochester, New York, United States",0,Cluster 0
+Salvatore Ferragamo,Eau de Toilette,Eau de Toilette,23.0,9.0,6.0,USD,"Glendora, California, United States",1,Cluster 1
+AS SHOW,Eau de Parfum,Eau de Parfum,49.99,25.0,8.0,USD,"California or Hong Kong, Hong Kong",1,Cluster 1
+Afnan,Eau de Parfum,Eau de Parfum,37.89,1242.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Armaf,Eau de Toilette,Eau de Toilette,21.15,739.0,95.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Givenchy,Eau de Toilette Intense,Eau de Toilette,59.0,601.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Montblanc,Eau de Toilette,Eau de Toilette,25.81,1424.0,95.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Claude Marsal,Perfume,Perfume / Parfum,180.0,9.0,1.0,USD,"Orlando, Florida, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,160.91,386.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,23.49,25.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Giorgio Armani,Parfum,Perfume / Parfum,25.95,280.0,10.0,USD,"Stafford, Texas, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,144.99,145.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,38.97,4.0,10.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,32.98,4427.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Liz Claiborne,"Eau de Cologne Spray, Cologne Spray",Cologne,33.99,6634.0,155.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Mont Blanc,Eau De Parfum,Eau de Parfum,62.09,125.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+NIKOS,Eau de Toilette,Eau de Toilette,12.23,1128.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Montblanc,Eau de Parfum,Eau de Parfum,31.29,349.0,40.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,69.55,16.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Lalique,Eau de Toilette,Eau de Toilette,26.52,1866.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,14.6,94.0,5.0,USD,"Toronto, Ontario, Canada",0,Cluster 0
+Viktor & Rolf,Eau de Parfum,Eau de Parfum,86.72,1296.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Paul Sebastian,Fine Cologne,Cologne,26.1,4934.0,4.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,28.2,24.0,8.0,USD,"Hamtramck, Michigan, United States",1,Cluster 1
+J. Del Pozo,Eau de Toilette,Eau de Toilette,27.4,397.0,52.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Viktor & Rolf,Eau de Toilette,Eau de Toilette,17.98,66.0,10.0,USD,"Austell, Georgia, United States",0,Cluster 0
+Rochas,Eau de Toilette,Eau de Toilette,24.55,433.0,23.0,USD,"Dallas, Texas, United States",0,Cluster 0
+PRADA,Eau de Parfum,Eau de Parfum,90.44,587.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,36.99,7.0,5.0,USD,"Hamtramck, Michigan, United States",1,Cluster 1
+Classic Brands,Eau de Cologne,Cologne,17.89,2256.0,10.0,USD,"Winter Garden, Florida, United States",0,Cluster 0
+REYANE TRADITION,Perfume,Perfume / Parfum,85.2,73.0,4.0,USD,"Miami, Florida, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,108.98,33.0,3.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Giorgio Beverly Hills,Eau de Toilette,Eau de Toilette,16.04,2817.0,31.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,45.98,343.0,7.0,USD,"Brooklyn, New York, United States",0,Cluster 0
+PRADA,Eau de Toilette,Eau de Toilette,84.73,2774.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,69.99,35.0,8.0,USD,"Highland Park, Michigan, United States",1,Cluster 1
+Rasasi,Eau de Parfum,Eau de Parfum,45.0,37.0,8.0,USD,"San Diego, California, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,48.95,121.0,10.0,USD,"Melvindale, Michigan, United States",0,Cluster 0
+CHANEL,Eau de Toilette,Eau de Toilette,10.7,163.0,5.0,USD,"Phillipsburg, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,27.1,28.0,8.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+As Show,Eau de Toilette,Eau de Toilette,29.99,92.0,10.0,USD,"New York,United States, Hong Kong",0,Cluster 0
+Creed,Eau De Parfum,Eau de Parfum,212.89,53.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,71.98,2153.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Dior,Eau de Toilette,Eau de Toilette,89.98,1243.0,8.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+as showed,Eau de Toilette,Eau de Toilette,43.47,34.0,10.0,USD,"Hong Kong or Virginia, Hong Kong",1,Cluster 1
+Myrurgia,Eau de Toilette,Eau de Toilette,9.98,8453.0,36.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Lattafa,Eau de Parfum,Eau de Parfum,24.4,14.0,50.0,USD,"Ronkonkoma, New York, United States",0,Cluster 0
+Jovan,Eau de Cologne,Cologne,10.19,330.0,44.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Coty Inc.,Does not apply,Other / Unclear,9.21,72.0,5.0,USD,"San Diego, California, United States",0,Cluster 0
+Rasasi,Eau de Parfum,Eau de Parfum,16.97,16.0,10.0,USD,"Buhl, Idaho, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,78.99,743.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Calvin Klein,Eau de Toilette,Eau de Toilette,19.16,348.0,72.0,USD,"Dallas, Texas, United States",0,Cluster 0
+MONT BLANC LEGEND,Eau de Toilette,Eau de Toilette,33.5,1511.0,,USD,"Brooklyn, New York, United States",0,Cluster 0
+KING OF KINGS,Perfume,Perfume / Parfum,79.99,15.0,9.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+Ulric de Varens,Eau de Toilette,Eau de Toilette,22.0,1.0,49.0,USD,"Miami, Florida, United States",1,Cluster 1
+Emporio Armani,Eau de Parfum,Eau de Parfum,84.99,7.0,3.0,USD,"California, Hong Kong",1,Cluster 1
+CHANEL,Eau de Parfum,Eau de Parfum,112.49,15.0,5.0,USD,"Lake Zurich, Illinois, United States",1,Cluster 1
+Carolina Herrera,Gift Sets,Gift Set,22.79,7.0,8.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+HERMÈS,EDT,Eau de Toilette,52.99,117.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,21.99,2.0,10.0,USD,"Shenzhen, China",1,Cluster 1
+Armaf,Extrait de Parfum,Perfume / Parfum,125.0,2.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,43.49,3.0,2.0,USD,"Dunedin, Florida, United States",1,Cluster 1
+Bentley,Fragrances,General Fragrance,23.49,6.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Azzaro,Parfum,Perfume / Parfum,44.0,83.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Maison Francis Kurkdjian,Eau de Toilette,Eau de Toilette,140.0,6.0,24.0,USD,"San Francisco, California, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,74.99,60.0,2.0,USD,"California or Hong Kong, Hong Kong",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,26.99,75.0,9.0,USD,"Bethpage, New York, United States",1,Cluster 1
+Ralph Lauren,Eau de Parfum,Eau de Parfum,52.97,1683.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Armaf,Eau de Parfum,Eau de Parfum,22.61,619.0,52.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,72.99,235.0,6.0,USD,"Farmington, Michigan, United States",1,Cluster 1
+Fragrance World,Fragrances,General Fragrance,27.99,1.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,17.98,50.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Parfum,Eau de Parfum,169.0,,,USD,"Winter Haven, Florida, United States",1,Cluster 1
+Bath & Body Works,Eau de Cologne,Cologne,27.94,717.0,1.0,USD,"Modesto, California, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Parfum,Eau de Parfum,12.95,594.0,10.0,USD,"Pearland, Texas, United States",0,Cluster 0
+Lattafa,Eau de Parfum,Eau de Parfum,23.99,10.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,24.99,6.0,12.0,USD,"Seattle, Washington, United States",1,Cluster 1
+Bvlgari,Eau de Toilette,Eau de Toilette,49.99,3.0,2.0,USD,"HK, Hong Kong",1,Cluster 1
+Azzaro,Eau de Toilette,Eau de Toilette,26.0,1337.0,92.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Perfume,Perfume / Parfum,90.44,1.0,1.0,USD,"New York, New York, United States",1,Cluster 1
+Allsaints,Eau de Parfum,Eau de Parfum,47.99,13.0,10.0,USD,"Salem, Virginia, United States",1,Cluster 1
+As shown,Eau de Toilette,Eau de Toilette,40.99,17.0,10.0,USD,"Nevada/California, USA, Hong Kong, Hong Kong",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,33.99,573.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+SECERTMU,Perfume,Perfume / Parfum,10.99,35.0,10.0,USD,"San Francisco, California, United States",0,Cluster 0
+Lacoste,Eau de Toilette,Eau de Toilette,47.34,14.0,4.0,USD,"Westminster, California, United States",1,Cluster 1
+Cologne,Eau de Toilette,Eau de Toilette,28.99,111.0,5.0,USD,"Hamtramck, Michigan, United States",1,Cluster 1
+Coach,Gift Sets,Gift Set,34.99,9.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Avon,Perfume,Perfume / Parfum,13.94,66.0,10.0,USD,"Orlando, United States",0,Cluster 0
+Abercrombie & Fitch,Eau de Cologne,Cologne,44.99,38.0,6.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,28.02,5377.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,49.99,45.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Yves de Sistelle,Eau de Toilette,Eau de Toilette,19.75,7253.0,82.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,28.99,10.0,10.0,USD,"College Point, New York, United States",1,Cluster 1
+Chanel,Eau de Toilette,Eau de Toilette,22.0,286.0,10.0,USD,"Albany, New York, United States",0,Cluster 0
+HERMÈS,EDT,Eau de Toilette,39.99,40.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Rasasi,Eau de Parfum,Eau de Parfum,53.99,140.0,12.0,USD,"Melissa, Texas, United States",1,Cluster 1
+As Shown,Eau de Toilette,Eau de Toilette,49.63,5.0,10.0,USD,"New York, Hong Kong",1,Cluster 1
+Limited Edition,Parfum,Perfume / Parfum,65.5,21.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Kenneth Cole Reaction,Eau de Toilette,Eau de Toilette,22.99,31.0,10.0,USD,"Bogota, New Jersey, United States",1,Cluster 1
+Armaf,Eau de Perfume,Perfume / Parfum,36.95,109.0,36.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Bond No. 9,Eau de Parfum,Eau de Parfum,17.98,12.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Unbranded,Eau de Parfum,Eau de Parfum,16.99,22.0,10.0,USD,"ShenZhen, China",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,17.34,460.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Unbranded,Perfume,Perfume / Parfum,13.0,11.0,7.0,USD,"New York, New York, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,114.99,539.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Armaf,Eau de Parfum,Eau de Parfum,29.99,7.0,3.0,USD,"Houston, Texas, United States",1,Cluster 1
+Afnan,Fragrances,General Fragrance,19.73,5.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Acqua di Parma,Eau de Cologne,Cologne,69.97,244.0,5.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Lacoste,Eau de Toilette,Eau de Toilette,31.95,12.0,10.0,USD,"Oneida, Tennessee, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,59.99,39.0,8.0,USD,"Midway City, California, Hong Kong",1,Cluster 1
+AS SHOWN,Eau de Parfum,Eau de Parfum,69.99,11.0,4.0,USD,"Hong Kong, Hong Kong",1,Cluster 1
+AS PHOTOS,Eau De Toilette,Eau de Toilette,34.68,2.0,8.0,USD,"Austin, Texas, United States",1,Cluster 1
+Armaf,PARFUM,Perfume / Parfum,56.95,700.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,36.99,39.0,6.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+GUERLAIN PARIS,Eau de Cologne,Cologne,100.0,1.0,3.0,USD,"Graham, Washington, United States",1,Cluster 1
+As Show,Eau de Parfum,Eau de Parfum,39.99,10.0,8.0,USD,"Dayton,New Jersey, Hong Kong",1,Cluster 1
+Cologne,Perfume,Perfume / Parfum,88.0,5.0,5.0,USD,"South San Francisco, California, United States",1,Cluster 1
+Al Haramain,Fragrances,General Fragrance,38.53,12.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Unbranded,Eau de Parfum,Eau de Parfum,25.99,38.0,10.0,USD,"Spring Hill, Florida, United States",1,Cluster 1
+Givenchy,Eau de Toilette,Eau de Toilette,39.95,178.0,13.0,USD,"Fort Lauderdale, Florida, United States",0,Cluster 0
+Montblanc,Eau de Parfum,Eau de Parfum,62.08,950.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Dossier,Eau de Parfum,Eau de Parfum,20.0,16.0,10.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Ralph Lauren,Eau de Parfum,Eau de Parfum,53.98,869.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,51.99,111.0,8.0,USD,"Thomasville, Alabama, United States",1,Cluster 1
+Parfums de Marly,Eau De Parfum,Eau de Parfum,155.65,593.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,24.99,18.0,10.0,USD,"Schenectady, New York, United States",1,Cluster 1
+HERMÈS,Eau de Toilette,Eau de Toilette,99.98,740.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Carolina Herrera,Gift Sets,Gift Set,88.65,40.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,153.0,23.0,10.0,USD,"Lynwood, California, United States",1,Cluster 1
+Roja Parfums,Eau de Parfum,Eau de Parfum,79.99,13.0,7.0,USD,"HongKong, Hong Kong",1,Cluster 1
+Narciso Rodriguez,Eau de Parfum,Eau de Parfum,59.09,432.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Burberry,Eau de Toilette,Eau de Toilette,7.95,254.0,5.0,USD,"Phillipsburg, New Jersey, United States",0,Cluster 0
+Roja,Eau de Parfum,Eau de Parfum,109.99,26.0,8.0,USD,"Rowland Heights, California, United States",1,Cluster 1
+Paco Rabanne,Fragrances,General Fragrance,68.61,10.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Davidoff,Body Spray,Body Care / Oil,12.49,17.0,7.0,USD,"Princeton, New Jersey, United States",1,Cluster 1
+Emporio Armani,Eau de Toilette,Eau de Toilette,71.98,1333.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,70.65,4802.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Topshelf,Perfume,Perfume / Parfum,139.99,4.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,39.99,52.0,10.0,USD,"Dexter, Michigan, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,48.99,30.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,33.99,89.0,8.0,USD,"Fenton, Michigan, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,66.39,1819.0,62.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Davidoff,Eau de Toilette,Eau de Toilette,26.9,264.0,10.0,USD,"Centralia, Washington, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,16.48,16.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,65.0,485.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Carolina Herrera,Eau de Toilette,Eau de Toilette,39.99,19.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Myrurgia,Eau de Toilette,Eau de Toilette,9.21,3093.0,202.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Brut,Eau de Toilette,Eau de Toilette,13.89,48.0,9.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Armaf,Eau de Parfum,Eau de Parfum,45.0,150.0,10.0,USD,"San Diego, California, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,21.95,189.0,3.0,USD,"New York, New York, United States",0,Cluster 0
+Penhaligon's,Eau de Parfum,Eau de Parfum,71.99,3.0,5.0,USD,"NewYork, Hong Kong",1,Cluster 1
+Ed Hardy,Eau de Toilette,Eau de Toilette,20.25,6633.0,311.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,17.98,4.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Tommy Hilfiger,Eau de Toilette,Eau de Toilette,9.95,269.0,5.0,USD," Beauty Maxima, United States, United States",0,Cluster 0
+Hollister,Eau de Cologne,Cologne,28.97,12.0,9.0,USD,"Chesapeake, Virginia, United States",1,Cluster 1
+J. Del Pozo,Eau de Toilette,Eau de Toilette,28.11,542.0,7.0,USD,"Dallas, Texas, United States",0,Cluster 0
+FM,Editions Parfums,Perfume / Parfum,16.85,16.0,4.0,USD,"Nashua, New Hampshire, United States",1,Cluster 1
+Valentino,Eau de Toilette,Eau de Toilette,103.98,350.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Coach,Eau de Toilette,Eau de Toilette,39.99,35.0,13.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Dior,DIOR HOMME COLOGNE,Cologne,89.99,129.0,7.0,USD,"Union, New Jersey, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,140.0,2.0,1.0,USD,"Franklin Square, New York, United States",1,Cluster 1
+HUGO BOSS,Eau de Parfum,Eau de Parfum,52.99,7.0,1.0,USD,"Miami, Florida, United States",1,Cluster 1
+Paris Hilton,Eau de Toilette,Eau de Toilette,25.49,2093.0,16.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,33.37,400.0,5.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,64.99,313.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,39.99,26.0,8.0,USD,"Sterrett, Alabama, United States",1,Cluster 1
+Kenneth Cole,Eau de Toilette,Eau de Toilette,24.15,14.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,35.99,27.0,5.0,USD,"Shenzhen, China",1,Cluster 1
+Calvin Klein,Eau de Parfum,Eau de Parfum,21.27,30.0,10.0,USD,"Rowland Heights, California, United States",1,Cluster 1
+John Varvatos,Eau de Parfum,Eau de Parfum,79.99,17.0,10.0,USD,"El Cajon, California, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,29.99,10.0,6.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,38.25,8.0,5.0,USD,"Romulus, Michigan, United States",1,Cluster 1
+As Show,Eau de Toilette,Eau de Toilette,49.99,15.0,20.0,USD,"Dayton,New Jersey, Hong Kong",1,Cluster 1
+Heaven Scents,Perfume,Perfume / Parfum,139.99,46.0,4.0,USD,"Bridgeview, Illinois, United States",1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,49.49,463.0,10.0,USD,"Detroit, Michigan, United States",0,Cluster 0
+Sean John,Eau de Toilette,Eau de Toilette,24.99,116.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Ralph Lauren,Eau de Cologne,Cologne,53.99,229.0,129.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Gucci,Eau de Parfum,Eau de Parfum,68.99,248.0,8.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Coach,Eau de Toilette,Eau de Toilette,29.99,286.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+SECERTMU,Perfume,Perfume / Parfum,11.99,51.0,10.0,USD,"Los Angeles, California, United States",0,Cluster 0
+Coach,Eau de Toilette,Eau de Toilette,41.99,248.0,15.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,84.59,19.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Valentino,Eau de Toilette,Eau de Toilette,75.99,8.0,2.0,USD,"Walnut, California, Hong Kong",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,39.99,207.0,10.0,USD,"Lincoln Park, Michigan, United States",0,Cluster 0
+HERMÈS,Eau de Toilette,Eau de Toilette,64.88,292.0,16.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,49.99,21.0,5.0,USD,"Macomb, Michigan, United States",1,Cluster 1
+Tommy Bahama,Eau de Cologne,Cologne,32.62,242.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Parfum,Eau de Parfum,37.59,78.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,29.46,43.0,10.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Karl Lagerfeld,Eau de Toilette,Eau de Toilette,25.1,5076.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,6.0,9.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,31.99,35.0,9.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Lacoste,Eau de Toilette,Eau de Toilette,32.5,634.0,40.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,48.95,40.0,6.0,USD,"Fourmile, Kentucky, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,84.6,111.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Lalique,Eau de Parfum,Eau de Parfum,27.25,24.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,27.5,18.0,3.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Afnan,Eau de Parfum,Eau de Parfum,24.43,16.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Giorgio Armani,Parfum,Perfume / Parfum,128.99,9.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Guy Laroche,Deodorant,Body Care / Oil,15.95,257.0,10.0,USD,"Hicksville, New York, United States",0,Cluster 0
+Viktor & Rolf,Eau de Toilette,Eau de Toilette,68.99,27.0,7.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Zara,Eau de Parfum,Eau de Parfum,58.95,12.0,5.0,USD,"Englewood, New Jersey, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,33.99,2.0,22.0,USD,"Miami, Florida, United States",1,Cluster 1
+Milestone Perfumes,Eau de Parfum,Eau de Parfum,34.99,4.0,8.0,USD,"Virginia Beach, Virginia, United States",1,Cluster 1
+ISSEY MIYAKE,Eau de Toilette,Eau de Toilette,26.95,5.0,4.0,USD,"Oneida, Tennessee, United States",1,Cluster 1
+KENZO,Eau de Toilette,Eau de Toilette,47.99,165.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Mercedes-Benz,Eau de Toilette,Eau de Toilette,49.81,15.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+As Show,Eau de Toilette,Eau de Toilette,35.99,46.0,10.0,USD,"New York,United States, Taiwan",1,Cluster 1
+Armaf,De Nuit,Other / Unclear,62.99,61.0,3.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Yves Saint Laurent,Perfume,Perfume / Parfum,25.95,2.0,10.0,USD,"Sammamish, Washington, United States",1,Cluster 1
+Lalique,Eau de Parfum,Eau de Parfum,28.19,10.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Liz Claiborne,"Eau de Toilette, Cologne Spray",Mixed Concentrations,17.02,3823.0,73.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Givenchy,EDT,Eau de Toilette,44.99,32.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,15.99,136.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Calvin Klein,Aftershave,Body Care / Oil,23.79,83.0,5.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,54.99,384.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,36.65,11.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+John Varvatos,Eau de Toilette,Eau de Toilette,33.36,453.0,4.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,54.52,143.0,51.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Moschino,Eau de Toilette,Eau de Toilette,22.87,440.0,74.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Cologne,Cologne,129.99,14.0,1.0,USD,"California or Hong Kong, Hong Kong",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,72.56,3171.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Azzaro,Eau de Toilette,Eau de Toilette,18.96,1034.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Coty,Eau de Toilette,Eau de Toilette,9.99,103.0,7.0,USD,"TX, United States",0,Cluster 0
+Dior,Eau de Toilette,Eau de Toilette,67.99,28.0,5.0,USD,"Princeton Junction, New Jersey, United States",1,Cluster 1
+Franck Olivier,Fragrances,General Fragrance,17.85,6.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Kenneth Cole,Eau de Toilette,Eau de Toilette,28.42,731.0,60.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Missoni,Fragrances,General Fragrance,30.07,12.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Halston,Eau de Cologne,Cologne,15.51,4443.0,113.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Cologne,Eau de Toilette,Eau de Toilette,38.94,2247.0,66.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Paco Rabanne,Eau de Parfum,Eau de Parfum,68.99,59.0,6.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Unbranded,Eau de Cologne,Cologne,18.0,3.0,5.0,USD,"Phenix City, Alabama, United States",1,Cluster 1
+YSL,Eau de Parfum,Eau de Parfum,49.99,12.0,10.0,USD,"Dayton,New Jersey,USA, Hong Kong",1,Cluster 1
+PRADA,Eau de Toilette,Eau de Toilette,76.5,8.0,2.0,USD,"Rochester, New York, United States",1,Cluster 1
+,Eau de Parfum,Eau de Parfum,55.16,3110.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Baron,Eau de Cologne,Cologne,28.38,1433.0,4.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Paco Rabanne,Parfum Intense,Perfume / Parfum,11.95,18.0,10.0,USD,"Pearland, Texas, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,27.0,5.0,6.0,USD,"McLean, Virginia, United States",1,Cluster 1
+Liz Claiborne,Eau de Cologne,Cologne,17.29,1370.0,226.0,USD,"Dallas, Texas, United States",0,Cluster 0
+adidas,Eau de Toilette,Eau de Toilette,11.58,17.0,10.0,USD,"New York, New York, United States",0,Cluster 0
+PRADA,Eau de Toilette,Eau de Toilette,79.99,1.0,5.0,USD,"Memphis, Tennessee, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,28.8,712.0,10.0,USD,"Brooklyn, New York, United States",0,Cluster 0
+Gucci,Eau de Parfum,Eau de Parfum,74.25,16.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+PRADA,Eau de Parfum,Eau de Parfum,90.45,19.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,28.95,81.0,1.0,USD,"Pearland, Texas, United States",1,Cluster 1
+Guerlain,Eau de Toilette,Eau de Toilette,94.99,24.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Kenneth Cole,Eau de Toilette,Eau de Toilette,24.14,9265.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Jaguar,Eau de Toilette,Eau de Toilette,15.65,2777.0,93.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Branded,Perfume,Perfume / Parfum,17.99,1.0,13.0,USD,"Multiple Location, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,79.89,15.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Parfums de Marly,Eau de Parfum,Eau de Parfum,13.95,41.0,7.0,USD,"Pearland, Texas, United States",1,Cluster 1
+Giorgio Armani,Gift Sets,Gift Set,94.43,98.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Liz Claiborne,Eau de Cologne,Cologne,16.71,7816.0,83.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,27.99,9.0,10.0,USD,"Jersey City, New Jersey, United States",1,Cluster 1
+Clinique,Eau de Parfum,Eau de Parfum,17.98,40.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,119.99,21.0,6.0,USD,"Sanborn, New York, United States",1,Cluster 1
+Acqua Di Gio,Eau de Toilette,Eau de Toilette,15.99,78.0,9.0,USD,"New York,United States, Hong Kong",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,75.99,19.0,10.0,USD,"El Cajon, California, United States",1,Cluster 1
+Cologne,Eau de Toilette,Eau de Toilette,14.99,72.0,7.0,USD,"Cabot, Arkansas, United States",0,Cluster 0
+Reyane Tradition,Eau de Toilette,Eau de Toilette,25.96,214.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Reyane Tradition,Eau de Toilette,Eau de Toilette,22.99,12.0,1.0,USD,"New York, New York, United States",1,Cluster 1
+Old Spice,Eau de Cologne,Cologne,19.99,132.0,2.0,USD,"Stafford, Texas, United States",1,Cluster 1
+Mercedes-Benz,Eau de Toilette,Eau de Toilette,38.99,7.0,33.0,USD,"Miami, Florida, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,75.0,1.0,7.0,USD,"Franklin Square, New York, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,30.95,16.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Bath & Body Works,Cologne,Cologne,59.97,35.0,10.0,USD,"Dover, Delaware, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,32.98,6188.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+PRADA,Eau de Toilette,Eau de Toilette,8.88,21.0,10.0,USD,"Debary, Florida, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,114.99,13.0,7.0,USD,"Sanborn, New York, United States",1,Cluster 1
+Mirage Brands,Eau de Toilette,Eau de Toilette,13.68,105.0,10.0,USD,"Cumming, Georgia, United States",0,Cluster 0
+Lauren Ralph Lauren,Eau de Parfum,Eau de Parfum,45.7,420.0,102.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,77.15,293.0,8.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Viktor & Rolf,Eau de Toilette,Eau de Toilette,24.98,8.0,7.0,USD,"New York, New York, United States",1,Cluster 1
+Milestone Perfumes,,Other / Unclear,19.89,21.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+By Al Hambra,Eau de Parfum,Eau de Parfum,21.8,7.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,27.9,157.0,5.0,USD,"Hamtramck, Michigan, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,58.95,545.0,150.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Creed,Eau de Parfum,Eau de Parfum,9.99,141.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,83.99,5.0,5.0,USD,"United States, Hong Kong",1,Cluster 1
+Unbranded,/,Other / Unclear,15.89,8.0,3.0,USD,"shanghai, China",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,32.13,85.0,47.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Clive Christian,Eau de Parfum,Eau de Parfum,13.0,14.0,3.0,USD,"Fort Walton Beach, Florida, United States",1,Cluster 1
+Tom Ford,Parfum,Perfume / Parfum,13.05,9.0,3.0,USD,"Jacksonville, Florida, United States",1,Cluster 1
+Viktor & Rolf,Eau De Parfum,Eau de Parfum,74.92,116.0,6.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Mont Blanc,Eau de Perfume,Perfume / Parfum,35.62,454.0,47.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,41.99,132.0,9.0,USD,"Thomasville, Alabama, United States",0,Cluster 0
+Abercrombie & Fitch,Eau de Cologne,Cologne,49.99,376.0,8.0,USD,"Warren, Michigan, United States",0,Cluster 0
+As Show,Eau de Parfum,Eau de Parfum,109.99,5.0,10.0,USD,"North York, Ontario, Canada",1,Cluster 1
+Rasasi,Eau de Parfum,Eau de Parfum,41.95,7.0,1.0,USD,"Bridgeview, Illinois, United States",1,Cluster 1
+Calvin Klein,Eau de Parfum,Eau de Parfum,21.27,112.0,10.0,USD,United States,0,Cluster 0
+Armaf,Eau de Parfum,Eau de Parfum,54.26,2550.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Maison Alhambra,Eau de Parfum,Eau de Parfum,26.5,3.0,1.0,USD,"New York, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,50.99,15.0,6.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+Dolce & Gabbana,Eau de Perfume,Perfume / Parfum,46.15,494.0,36.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Parfum Intense,Eau de Parfum,77.99,9.0,33.0,USD,"Miami, Florida, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,110.08,684.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Franck Olivier,Fragrances,General Fragrance,18.79,9.0,2.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,32.99,3.0,2.0,USD,"New York, New York, United States",1,Cluster 1
+Parfums de Marly,Eau de Parfum,Eau de Parfum,110.0,6.0,1.0,USD,"Brownsboro, Texas, United States",1,Cluster 1
+GIORGIO ARM.ANI,Eau De Toilette,Eau de Toilette,36.68,1.0,9.0,USD,"Austin, Texas, United States",1,Cluster 1
+Victor & Rolf,Eau de Parfum,Eau de Parfum,74.59,1.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Polo,Eau de Toilette,Eau de Toilette,41.79,174.0,2.0,USD,"Jamaica, New York, United States",1,Cluster 1
+Roberto Cavalli,Eau de Toilette,Eau de Toilette,42.95,8.0,10.0,USD,"Keyport, New Jersey, United States",1,Cluster 1
+Bentley,Eau de Parfum,Eau de Parfum,28.99,65.0,13.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Azzaro,Eau de Parfum,Eau de Parfum,93.91,111.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Salvatore Ferragamo,Eau de Toilette,Eau de Toilette,21.0,785.0,4.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Emanuelle Ungaro,Eau de Perfume,Perfume / Parfum,31.89,226.0,15.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Mercedes-Benz,Eau de Toilette,Eau de Toilette,37.99,2.0,4.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+Versace,Eau de Parfum,Eau de Parfum,58.09,550.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Davidoff,Eau de Toilette,Eau de Toilette,25.23,40130.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Ralph Lauren,Eau de Parfum,Eau de Parfum,43.0,32.0,5.0,USD,"Hamtramck, Michigan, United States",1,Cluster 1
+CURVE,Eau de Cologne,Cologne,16.82,1992.0,4.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Penhaligon's,Eau de Parfum,Eau de Parfum,188.99,1.0,4.0,USD,"Ottawa, Canada",1,Cluster 1
+Emporio Armani,Eau de Parfum,Eau de Parfum,69.99,6.0,2.0,USD,"Texas, Hong Kong",1,Cluster 1
+Salvatore Ferragamo,Eau de Toilette,Eau de Toilette,28.19,23.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Kenneth Cole,Body Spray,Body Care / Oil,10.99,368.0,10.0,USD,"Brooklyn, New York, United States",0,Cluster 0
+Diesel,Eau de Toilette,Eau de Toilette,16.99,28.0,10.0,USD,"Des Moines, Iowa, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,70.08,1165.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+As Show,Eau de Parfum,Eau de Parfum,69.99,49.0,10.0,USD,"Hong Kong, Hong Kong",1,Cluster 1
+Hollister,Eau de Cologne,Cologne,46.75,3.0,7.0,USD,"Green Bay, Wisconsin, United States",1,Cluster 1
+Burberry,Eau de Parfum,Eau de Parfum,75.65,16.0,10.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,94.93,15.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Afnan,Eau de Parfum,Eau de Parfum,34.5,16.0,2.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Michael Malul London,Eau de Parfum,Eau de Parfum,90.11,51.0,10.0,USD,"Columbia, South Carolina, United States",1,Cluster 1
+Estée Lauder,Eau de Cologne,Cologne,19.99,10.0,3.0,USD,"New York, New York, United States",1,Cluster 1
+Mercedes-Benz,Eau de Toilette,Eau de Toilette,47.99,17.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+PRADA,Eau de Parfum,Eau de Parfum,113.98,755.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Cologne,Eau de Parfum,Eau de Parfum,67.5,3.0,4.0,USD,"Matawan, New Jersey, United States",1,Cluster 1
+Pierre Cardin,Eau de Toilette,Eau de Toilette,7.28,149.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+RawChemistry,cologne,Cologne,30.95,4.0,13.0,USD,"Maiden, North Carolina, United States",1,Cluster 1
+Michael Malul London,Eau de Parfum,Eau de Parfum,89.99,8.0,4.0,USD,"Towson, Maryland, United States",1,Cluster 1
+Cologne,Perfume,Perfume / Parfum,68.89,25.0,4.0,USD,"New York, New York, United States",1,Cluster 1
+Sterling,Eau De Parfum,Eau de Parfum,38.98,129.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,46.0,1207.0,59.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Burberry,Eau de Toilette,Eau de Toilette,32.99,59.0,6.0,USD,"Dexter, Michigan, United States",1,Cluster 1
+PRADA,Eau de Parfum,Eau de Parfum,181.04,30.0,5.0,USD,"United states, United States",1,Cluster 1
+Afnan,Eau De Parfum,Eau de Parfum,38.41,147.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Liz Claiborne,Eau de Cologne,Cologne,17.98,150.0,1.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Territoire,Eau de Parfum,Eau de Parfum,16.49,77.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Jimmy Choo,Eau de Toilette,Eau de Toilette,31.95,8.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Hollister,EAU DE COLOGNE SPRAY,Cologne,26.75,5.0,7.0,USD,"Chesapeake, Virginia, United States",1,Cluster 1
+Bentley,Eau de Parfum,Eau de Parfum,29.13,13.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Viktor & Rolf,Eau de Parfum,Eau de Parfum,74.85,2.0,1.0,USD,"Monterey Park, California, United States",1,Cluster 1
+Armaf,Eau de Toilette,Eau de Toilette,28.95,1306.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Lapidus,Eau de Toilette,Eau de Toilette,20.25,24.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Mary Kay,Eau de Cologne,Cologne,30.0,24.0,2.0,USD,"Douglasville, Georgia, United States",1,Cluster 1
+Guy Laroche,Eau de Toilette,Eau de Toilette,18.91,5500.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+L’OCCITANE,Eau de Toilette,Eau de Toilette,59.0,4.0,5.0,USD,"Winter Haven, Florida, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,192.0,37.0,7.0,USD,"Jerusalem, Israel",1,Cluster 1
+Jimmy Choo,Eau de Toilette,Eau de Toilette,24.43,4.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Have A Scent,Roll On,Body Care / Oil,9.99,94.0,10.0,USD,"Fort Lauderdale, Florida, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,15.99,91.0,6.0,USD,"New York, New York, United States",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,40.59,2934.0,53.0,USD,"Dallas, Texas, United States",0,Cluster 0
+CHANEL,Eau de Toilette,Eau de Toilette,89.97,,,USD,"Lakewood, California, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,44.99,19.0,9.0,USD,"Warren, Michigan, United States",1,Cluster 1
+SECERTMU,Perfume,Perfume / Parfum,6.96,102.0,10.0,USD,"San Francisco, California, United States",0,Cluster 0
+J. Del Pozo,Eau de Toilette,Eau de Toilette,37.98,612.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Louis Vuitton,Eau de Parfum,Eau de Parfum,18.95,624.0,10.0,USD,"Pearland, Texas, United States",0,Cluster 0
+Avon,Eau de Toilette,Eau de Toilette,19.99,26.0,10.0,USD,"Elk, Poland",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,45.99,37.0,3.0,USD,"Miami, Florida, United States",1,Cluster 1
+Paco Rabanne,Parfum Intense,Perfume / Parfum,86.99,28.0,12.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,19.73,7.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,13.28,6.0,9.0,USD,"WA, United States",1,Cluster 1
+Cologne,Eau de Cologne,Cologne,35.0,8.0,2.0,USD,"Gonzales, Louisiana, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,16.99,84.0,10.0,USD,"Hong Kong, China",0,Cluster 0
+Parfums de Marly,Eau de Parfum,Eau de Parfum,34.99,19.0,8.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Jaguar,Fragrances,General Fragrance,13.15,7.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,64.99,118.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+CHANEL,Parfum,Perfume / Parfum,11.5,12.0,2.0,USD,"Montclair, California, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,28.99,7.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Fragrance Couture,Eau de Toilette,Eau de Toilette,14.98,206.0,1.0,USD,"Cumming, Georgia, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,13.0,17.0,3.0,USD,"Fort Walton Beach, Florida, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,11.99,39.0,2.0,USD,"Fort Walton Beach, Florida, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,104.99,38.0,5.0,USD,"Sanborn, New York, United States",1,Cluster 1
+Dolce & Gabbana,Eau De Parfum,Eau de Parfum,75.95,3.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,19.41,501.0,86.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Mancera,Eau de Parfum,Eau de Parfum,13.5,17.0,10.0,USD,"Albany, New York, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,141.0,6.0,USD,"Inkster, Michigan, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,38.99,41.0,2.0,USD,"Huntsville, Alabama, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,46.99,15.0,5.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Hermes,Eau de Toilette,Eau de Toilette,14.98,418.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Abercrombie & Fitch,Eau de Cologne,Cologne,44.99,129.0,2.0,USD,"Reinholds, Pennsylvania, United States",1,Cluster 1
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,9.89,6.0,10.0,USD,"Woodbridge, Virginia, United States",1,Cluster 1
+Gucci,Elixir de Parfum,Perfume / Parfum,15.99,196.0,,USD,"Valley Stream, New York, United States",0,Cluster 0
+Hugo Boss,Eau de Perfume,Perfume / Parfum,65.37,87.0,16.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Valentino,Eau de Toilette,Eau de Toilette,59.99,3.0,2.0,USD,"New York, New York, Taiwan",1,Cluster 1
+LLURE SX,Cologne,Cologne,38.95,114.0,3.0,USD,"Long Beach, California, United States",1,Cluster 1
+Jacques Bogart,Eau de Toilette,Eau de Toilette,13.97,957.0,31.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,239.99,14.0,10.0,USD,"El Cajon, California, United States",1,Cluster 1
+Gucci,Eau de Toilette,Eau de Toilette,53.99,3.0,3.0,USD,"Miami, Florida, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,29.99,8.0,10.0,USD,"Middletown, Delaware, United States",1,Cluster 1
+Tommy Hilfiger,Eau de Parfum,Eau de Parfum,44.95,75.0,6.0,USD,"TX, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,79.99,47.0,5.0,USD,"Macomb, Michigan, United States",1,Cluster 1
+Unbranded,Eau de Parfum,Eau de Parfum,13.99,8.0,10.0,USD,"Dearborn, Michigan, United States",1,Cluster 1
+Cologne,Eau de Toilette,Eau de Toilette,25.46,410.0,10.0,USD,"New York, United States",0,Cluster 0
+Moschino,Eau de Parfum,Eau de Parfum,35.99,3.0,4.0,USD,"36784, United States",1,Cluster 1
+Dolce & Gabbana,Eau De Parfum Intense,Eau de Parfum,7.5,115.0,10.0,USD,"Albany, New York, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,129.0,13.0,7.0,USD,"McLean, Virginia, United States",1,Cluster 1
+As Show,Eau de Toilette,Eau de Toilette,47.99,16.0,6.0,USD,"California,United States, Hong Kong",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,59.43,3691.0,7.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Dolce & Gabbana,Eau de Parfum,Eau de Parfum,14.95,79.0,8.0,USD,"Pearland, Texas, United States",0,Cluster 0
+Ralph Lauren,Eau de Parfum,Eau de Parfum,12.99,5.0,5.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,108.0,10.0,1.0,USD,"Appleton, Wisconsin, United States",1,Cluster 1
+FC,Perfume,Perfume / Parfum,14.7,119.0,10.0,USD,"Hephzibah, Georgia, United States",0,Cluster 0
+Valentino,Eau de Toilette,Eau de Toilette,78.99,27.0,10.0,USD,"United States,California, Taiwan",1,Cluster 1
+Pheromones,Eau de Toilette,Eau de Toilette,32.95,217.0,10.0,USD,"Rockledge, Florida, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,18.99,38.0,10.0,USD,"Brooklyn, New York, United States",0,Cluster 0
+Cartier,Eau de Toilette,Eau de Toilette,59.63,48.0,24.0,USD,"Dallas, Texas, United States",0,Cluster 0
+HUGO BOSS,Eau de Toilette,Eau de Toilette,44.93,2098.0,26.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Armaf,Eau de Toilette,Eau de Toilette,30.31,17.0,10.0,USD,United States,1,Cluster 1
+Abercrombie & Fitch,Eau de Cologne,Cologne,49.99,381.0,10.0,USD,"Rochester, New York, United States",0,Cluster 0
+Dior,Elixir,Perfume / Parfum,88.99,4.0,5.0,USD,"Belleville, Michigan, United States",1,Cluster 1
+Paco Rabanne,Various,Other / Unclear,20.0,2.0,7.0,USD,"Flemington, New Jersey, United States",1,Cluster 1
+Assorted,Assorted,Other / Unclear,17.95,4.0,1.0,USD,"Orange City, Florida, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,39.99,40.0,7.0,USD,"Flat Lick, Kentucky, United States",1,Cluster 1
+HINODE,Eau de Parfum,Eau de Parfum,99.0,177.0,8.0,USD,"REGENTE FEIJO, Brazil",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,15.99,65.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Dossier,Eau de Parfum,Eau de Parfum,20.0,16.0,10.0,USD,"Los Angeles, California, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,41.95,37.0,7.0,USD,"San Jose, California, United States",1,Cluster 1
+Parfums de Marly,Eau de Parfum,Eau de Parfum,19.99,6.0,4.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,38.99,20.0,10.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,55.15,64.0,5.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,74.48,5.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Lattafa,Fragrances,General Fragrance,33.49,4.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Roja,Eau de Cologne,Cologne,17.89,68.0,5.0,USD,"Phillipsburg, New Jersey, United States",1,Cluster 1
+Gucci,Eau de Toilette,Eau de Toilette,58.46,5227.0,1.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Parfums de Marly,Eau de Parfum,Eau de Parfum,91.98,7.0,1.0,USD,"Madera, California, United States",1,Cluster 1
+Calvin Klein,Aftershave,Body Care / Oil,17.99,3.0,3.0,USD,"West Harrison, Indiana, United States",1,Cluster 1
+Salvatore Ferragamo,Eau de Parfum,Eau de Parfum,69.95,120.0,5.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,135.0,4.0,8.0,USD,"Franklin Square, New York, United States",1,Cluster 1
+Cologne,Eau de Toilette,Eau de Toilette,35.0,214.0,3.0,USD,"Grafton, Wisconsin, United States",1,Cluster 1
+Michael Jordan,Eau de Cologne,Cologne,21.79,488.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+ysl,Eau de Toilette,Eau de Toilette,38.0,42.0,10.0,USD,"Wakefield, Massachusetts, Hong Kong",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,34.99,31.0,5.0,USD,"Dearborn, Michigan, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,53.45,3787.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Paco Rabanne,Parfum,Perfume / Parfum,82.99,2.0,10.0,USD,"New York, New York, United States",1,Cluster 1
+Valentino,Eau de Toilette,Eau de Toilette,79.99,11.0,2.0,USD,"HK, Hong Kong",1,Cluster 1
+PRADA,Eau de Parfum,Eau de Parfum,22.99,1.0,9.0,USD,"Cincinnati, Ohio, United States",1,Cluster 1
+Afnan,Eau de Perfume,Perfume / Parfum,22.15,196.0,28.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,26.55,15.0,7.0,USD,"Hamlet, North Carolina, United States",1,Cluster 1
+Designer Series,Eau de Toilette,Eau de Toilette,12.6,229.0,10.0,USD,"Cumming, Georgia, United States",0,Cluster 0
+Bond No. 9,Eau de Parfum,Eau de Parfum,17.98,9.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Tom Ford,Eau de Parfum,Eau de Parfum,135.49,64.0,10.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+YSL,Eau de Toilette,Eau de Toilette,52.99,60.0,8.0,USD,"New Jersey, Hong Kong",1,Cluster 1
+Lacoste,Eau de Toilette,Eau de Toilette,54.5,1995.0,2.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Alexandria Fragrances,Eau de Parfum,Eau de Parfum,3.0,4.0,39.0,USD,"Wynnewood, Pennsylvania, United States",0,Cluster 0
+Armaf,Eau de Perfume,Perfume / Parfum,36.95,120.0,19.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,51.99,28.0,9.0,USD,"Houston, Texas, United States",1,Cluster 1
+CHANEL,Eau de Toilette,Eau de Toilette,12.0,11.0,2.0,USD,"Montclair, California, United States",1,Cluster 1
+Maison Martin Margiela,Eau de Toilette,Eau de Toilette,39.99,11.0,1.0,USD,"Monroe Township, New Jersey, Hong Kong",1,Cluster 1
+Bvlgari,Eau de Parfum,Eau de Parfum,64.99,15.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+KENZO,Eau de Toilette,Eau de Toilette,76.99,33.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+El Ganso,Eau de Toilette,Eau de Toilette,56.0,6.0,3.0,USD,"Winter Haven, Florida, United States",1,Cluster 1
+Avon,Eau de Toilette,Eau de Toilette,45.9,74.0,10.0,USD,"Elk, Poland",1,Cluster 1
+VICTOR MANUELLE,Eau de Parfum,Eau de Parfum,39.99,153.0,3.0,USD,"Philadelphia, Pennsylvania, United States",1,Cluster 1
+English Laundry,Eau De Parfum,Eau de Parfum,36.67,169.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Luxury,Eau de Toilette,Eau de Toilette,10.67,272.0,57.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,92.0,9.0,1.0,USD,"Montclair, California, United States",1,Cluster 1
+MontBlanc,Fragrances,General Fragrance,31.29,1.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Bath & Body Works,Cologne,Cologne,29.97,,4.0,USD,"Dover, Delaware, United States",1,Cluster 1
+Jil Sander,Eau de Toilette,Eau de Toilette,27.84,85.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,99.99,17.0,6.0,USD,"Sanborn, New York, United States",1,Cluster 1
+AS SHOW,Eau de Parfum,Eau de Parfum,99.49,3.0,1.0,USD,"Rochester, New York, United States",1,Cluster 1
+Acqua di Parma,Eau de Cologne,Cologne,23.95,78.0,1.0,USD,"Pearland, Texas, United States",1,Cluster 1
+Tom Ford,Fragrance Oil,Body Care / Oil,29.99,,10.0,USD,"St. George, Utah, United States",1,Cluster 1
+Guy Laroche,Eau de Toilette,Eau de Toilette,19.99,58.0,3.0,USD,"East Meadow, New York, United States",1,Cluster 1
+Salvatore Ferragamo,Eau de Toilette,Eau de Toilette,26.86,1047.0,37.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Paco Rabanne,Eau de Parfum,Eau de Parfum,74.99,23.0,10.0,USD,"New York,United States, Hong Kong",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,31.57,287.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Givenchy,Eau de Toilette,Eau de Toilette,39.99,45.0,3.0,USD,"California,USA, Hong Kong",1,Cluster 1
+Avon,Eau de Cologne,Cologne,51.49,37.0,10.0,USD,"Humacao, Puerto Rico, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,29.03,11.0,2.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Moschino,Eau de Parfum,Eau de Parfum,39.95,5.0,10.0,USD,"Huntington Station, New York, United States",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,25.99,71.0,8.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+Azzaro,Eau de Toilette,Eau de Toilette,18.11,12.0,10.0,USD,"Orlando, Florida, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,124.99,13.0,2.0,USD,"Sanborn, New York, United States",1,Cluster 1
+Montblanc,Eau de Parfum,Eau de Parfum,52.94,100.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+MAISON ALHAMBRA,Perfume,Perfume / Parfum,29.99,42.0,3.0,USD,"Miami, Florida, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,32.98,507.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,12.0,10.0,USD,"Saint Clair Shores, Michigan, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,37.95,20.0,9.0,USD,"Warren, Michigan, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,9.0,6.0,USD,"Ecorse, Michigan, United States",1,Cluster 1
+Versace,Eau de Toilette,Eau de Toilette,20.37,4569.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Ralph Lauren,Eau de Parfum,Eau de Parfum,53.99,16.0,2.0,USD,"Orlando, Florida, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,45.99,2452.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+PRADA,Eau de Toilette,Eau de Toilette,68.55,65.0,10.0,USD,"Middle Grove, New York, United States",1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,39.99,23.0,5.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Hybrid & Company,Perfume,Perfume / Parfum,24.19,73.0,15.0,USD,"Temple, Texas, United States",0,Cluster 0
+Perry Ellis,Eau de Toilette,Eau de Toilette,23.01,2611.0,5.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,136.0,51.0,5.0,USD,"Miami, Florida, United States",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,16.9,127.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Houbigant,Eau de Toilette,Eau de Toilette,68.0,33.0,6.0,USD,"Hialeah, Florida, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,25.0,8.0,5.0,USD,"Nine Mile Falls, Washington, United States",1,Cluster 1
+HUGO BOSS,Eau de Toilette,Eau de Toilette,50.79,7506.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Lattafa,Eau de Parfum,Eau de Parfum,17.18,65.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Perry Ellis,Eau de Toilette,Eau de Toilette,21.91,1831.0,96.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Zara,Eau de Parfum,Eau de Parfum,48.97,30.0,4.0,USD,"Matosinhos, Portugal",1,Cluster 1
+Tommy Bahama,Eau de Cologne,Cologne,25.99,209.0,6.0,USD,"TX, United States",0,Cluster 0
+Guerlain,Eau de Cologne,Cologne,96.95,6.0,2.0,USD,"Miami, Florida, United States",1,Cluster 1
+AS SHOW,Eau de Parfum,Eau de Parfum,74.99,4.0,2.0,USD,"Dayton, New Jersey, Hong Kong",1,Cluster 1
+Lattafa,Eau de Parfum,Eau de Parfum,23.89,14.0,9.0,USD,"Bethpage, New York, United States",1,Cluster 1
+Mancera,Eau de Parfum,Eau de Parfum,69.97,30.0,8.0,USD,"Englewood, New Jersey, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,15.99,45.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+PRADA,Eau de Toilette,Eau de Toilette,66.55,7.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Givenchy,Fragrances,General Fragrance,48.87,8.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+GIVENCHY,Eau de Parfum,Eau de Parfum,72.99,180.0,8.0,USD,"Philadelphia, Pennsylvania, United States",1,Cluster 1
+Afnan,Fragrances,General Fragrance,31.95,5.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,188.3,266.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,55.45,11.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Nautica,Eau de Toilette,Eau de Toilette,18.33,1332.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Parfum,Perfume / Parfum,123.99,5.0,19.0,USD,"Miami, Florida, United States",1,Cluster 1
+GIVENCHY,Eau de Parfum,Eau de Parfum,70.0,2.0,1.0,USD,"Franklin Square, New York, United States",1,Cluster 1
+Assorted,Eau de Parfum/ Eau de Toilette,Mixed Concentrations,3.5,3009.0,4.0,USD,"Pearland, Texas, United States",0,Cluster 0
+Unbranded,Fragrance Rolling Ball,Body Care / Oil,10.99,38.0,10.0,USD,"Los Angeles, California, United States",0,Cluster 0
+AXE,Deodorant Body Spray,Body Care / Oil,42.99,26.0,4.0,USD,"Whittier, California, United States",1,Cluster 1
+Emporio Armani,Eau de Toilette,Eau de Toilette,71.9,244.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Salvatore Ferragamo,Eau de Toilette,Eau de Toilette,32.89,5.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+As Show,Eau de Toilette,Eau de Toilette,38.99,37.0,9.0,USD,"New York,United States, Hong Kong",1,Cluster 1
+Does not apply,Does not apply,Other / Unclear,16.34,103.0,5.0,USD,"Plano, Texas, United States",0,Cluster 0
+Issey Miyake,Eau de Toilette,Eau de Toilette,44.61,27.0,54.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Kenneth Cole,Eau de Toilette,Eau de Toilette,18.66,58.0,26.0,USD,"Dallas, Texas, United States",0,Cluster 0
+HERMÈS,Eau de Cologne,Cologne,62.62,335.0,3.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Tiffany,Eau de Toilette,Eau de Toilette,49.99,19.0,3.0,USD,"California or Hong Kong, Hong Kong",1,Cluster 1
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,178.99,77.0,1.0,USD,"Austin, Texas, United States",1,Cluster 1
+emper,Eau de Parfum,Eau de Parfum,29.95,2.0,4.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Yves Saint Laurent,Eau de Parfum,Eau de Parfum,58.99,22.0,8.0,USD,"Grand Rapids, Michigan, United States",1,Cluster 1
+Ed Hardy,Eau de Toilette,Eau de Toilette,40.95,14.0,3.0,USD,"Pompano Beach, Florida, United States",1,Cluster 1
+Maison Francis Kurkdjian,Does not apply,Other / Unclear,159.99,2.0,4.0,USD,"Shepherdsville, Kentucky, United States",1,Cluster 1
+Gucci,Eau de Toilette,Eau de Toilette,71.98,100.0,1.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Giorgio Armani,Eau de Toilette,Eau de Toilette,29.99,61.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+MONTALE,Eau de Parfum,Eau de Parfum,59.0,4.0,6.0,USD,"Irving, Texas, United States",1,Cluster 1
+Creed,Oil,Body Care / Oil,9.96,266.0,10.0,USD,"Jamaica, New York, United States",0,Cluster 0
+BRUT,Splash-on,Other / Unclear,19.97,15.0,4.0,USD,"San Diego, California, United States",1,Cluster 1
+SECERTMU,Pheromone,General Fragrance,12.99,10.0,10.0,USD,"San Francisco, California, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,18.89,125.0,10.0,USD,"New York, New York, United States",0,Cluster 0
+Bvlgari,Eau de Parfum,Eau de Parfum,29.99,25.0,10.0,USD,"Keyport, New Jersey, United States",1,Cluster 1
+CHRISTIAN DIOR,Eau de Parfum,Eau de Parfum,27.5,29.0,10.0,USD,"Orma, West Virginia, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,34.99,48.0,4.0,USD,"Pomona,California, Hong Kong",1,Cluster 1
+Issey Miyake,Eau De Toilette,Eau de Toilette,24.35,88.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Moschino,Eau de Parfum,Eau de Parfum,34.99,3.0,9.0,USD,"Houston, Texas, United States",1,Cluster 1
+Bond No. 9,Eau De Parfum,Eau de Parfum,160.27,47.0,3.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Kenneth Cole,edt,Eau de Toilette,24.5,415.0,10.0,USD,"Orlando, Florida, United States",0,Cluster 0
+Fragrance World,Fragrances,General Fragrance,32.89,8.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+John Varvatos,Eau de Toilette,Eau de Toilette,29.2,121.0,21.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Blue Perfumes,Eau de Toilette,Eau de Toilette,16.99,3.0,1.0,USD,"20744, United States",1,Cluster 1
+Hugo Boss,Eau de Toilette,Eau de Toilette,29.78,604.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+Al Haramain,Eau de Perfume,Perfume / Parfum,30.93,998.0,65.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Creed,Eau de Parfum,Eau de Parfum,180.17,327.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Boucheron,Eau de Parfum,Eau de Parfum,35.58,1024.0,,USD,"Dallas, Texas, United States",0,Cluster 0
+fragance one,Eau de Parfum,Eau de Parfum,179.99,5.0,5.0,USD,"West Chester, Pennsylvania, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,45.35,1.0,2.0,USD,"DELHI, DELHI, India",1,Cluster 1
+Paco Rabanne,Parfum Intense,Perfume / Parfum,99.99,50.0,6.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+Paco Rabanne,Eau de Parfum,Eau de Parfum,69.99,13.0,10.0,USD,"Keyport, New Jersey, United States",1,Cluster 1
+Elixir,EDC,Cologne,110.19,11.0,10.0,USD,"Corona, California, United States",1,Cluster 1
+Michael Malul Gents Scents,Eau de Parfum,Eau de Parfum,99.86,4.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Xerjoff,Eau de Parfum,Eau de Parfum,11.0,47.0,3.0,USD,"Fort Walton Beach, Florida, United States",1,Cluster 1
+Guerlain,Eau de Cologne,Cologne,12.0,22.0,7.0,USD,"Punta Gorda, Florida, United States",1,Cluster 1
+Ralph Lauren,Eau de Toilette,Eau de Toilette,31.99,15.0,6.0,USD,"Dearborn Heights, Michigan, United States",1,Cluster 1
+Polo Ralph Lauren,Eau de Parfum,Eau de Parfum,8.99,8.0,4.0,USD,"Saint Petersburg, Florida, United States",1,Cluster 1
+united scents,Eau de Parfum,Eau de Parfum,14.99,20.0,10.0,USD,"Arcadia, California, United States",1,Cluster 1
+Burberry,Eau de Toilette,Eau de Toilette,39.25,30.0,10.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Jimmy Choo,Eau de Toilette,Eau de Toilette,16.5,67.0,5.0,USD,"Roseville, California, United States",0,Cluster 0
+Cologne,Eau de Parfum,Eau de Parfum,24.99,2.0,1.0,USD,"Lynnwood, Washington, United States",1,Cluster 1
+Avon,Eau de Toilette,Eau de Toilette,34.99,577.0,10.0,USD,"Austin, Texas, United States",0,Cluster 0
+Jimmy Choo,Eau de Toilette,Eau de Toilette,68.72,55.0,10.0,USD,"Ann Arbor, Michigan, United States",1,Cluster 1
+Unbranded,Eau de Toilette,Eau de Toilette,25.89,4.0,10.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Bvlgari,Eau de Parfum,Eau de Parfum,250.0,,,USD,"Paterson, New Jersey, United States",1,Cluster 1
+Yves Saint Laurent,Eau de Toilette,Eau de Toilette,16.95,69.0,10.0,USD,"Stafford, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Toilette,Eau de Toilette,36.5,185.0,3.0,USD,"Battle Creek, Michigan, United States",1,Cluster 1
+Creed,Eau de Parfum,Eau de Parfum,15.95,30.0,6.0,USD,"Midway City, California, United States",1,Cluster 1
+Calvin Klein,Eau de Toilette,Eau de Toilette,24.95,8.0,6.0,USD,"Oneida, Tennessee, United States",1,Cluster 1
+Unbranded,Car Air Freshener,Other / Unclear,7.19,131.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+YSL,Eau de Parfum,Eau de Parfum,44.99,13.0,10.0,USD,"Edison, New Jersey, Hong Kong",1,Cluster 1
+Pierre Cardin,Eau De Cologne,Cologne,9.45,56.0,10.0,USD,"Boynton Beach, Florida, United States",0,Cluster 0
+Paco Rabanne,Eau de Toilette,Eau de Toilette,39.99,5.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Unbranded,Perfume,Perfume / Parfum,15.99,81.0,10.0,USD,"Houston, Texas, United States",0,Cluster 0
+Bharara,Eau de Parfum,Eau de Parfum,54.85,8.0,9.0,USD,"Dallas, Texas, United States",1,Cluster 1
+as showed,Eau de Parfum,Eau de Parfum,42.39,4.0,10.0,USD,"California,United States,HK, Hong Kong",1,Cluster 1
+aladdin,Eau de Cologne,Cologne,28.99,3.0,8.0,USD,"Port Orange, Florida, United States",1,Cluster 1
+Giorgio Armani,Eau de Parfum,Eau de Parfum,84.99,8.0,10.0,USD,"Detroit, Michigan, United States",1,Cluster 1
+Hermes,Fragrances,General Fragrance,28.19,6.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Salvatore Ferragamo,Eau de Parfum,Eau de Parfum,26.99,14.0,3.0,USD,"Miami, Florida, United States",1,Cluster 1
+Rasasi,Eau de Parfum,Eau de Parfum,49.5,2.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,56.99,993.0,68.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Bvlgari,Eau de Toilette,Eau de Toilette,64.02,10.0,2.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Hanae Mori,Eau de Toilette,Eau de Toilette,15.39,1.0,5.0,USD,"Houston, Texas, United States",1,Cluster 1
+Phillips-Van Heusen,Eau de Toilette,Eau de Toilette,21.25,504.0,10.0,USD,"Lynwood, California, United States",0,Cluster 0
+Elizabeth Taylor,Eau de Cologne,Cologne,17.17,4.0,1.0,USD,"Ontario, California, United States",1,Cluster 1
+Polo Ralph Lauren,Parfum,Perfume / Parfum,103.2,5.0,9.0,USD,"Seattle, Washington, United States",1,Cluster 1
+Gucci,Eau de Toilette,Eau de Toilette,68.3,137.0,,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Carolina Herrera,Eau de Toilette,Eau de Toilette,65.99,17.0,10.0,USD,"El Cajon, California, United States",1,Cluster 1
+Ralph Lauren,Eau de Cologne,Cologne,41.44,145.0,84.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Bath & Body Works,Body Spray,Body Care / Oil,10.91,654.0,1.0,USD,"Modesto, California, United States",0,Cluster 0
+Dossier,Eau de Toilette,Eau de Toilette,18.99,14.0,10.0,USD,"Bogota, New Jersey, United States",1,Cluster 1
+Lalique,Eau de Parfum,Eau de Parfum,25.74,7.0,5.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Givenchy,Eau de Toilette,Eau de Toilette,50.44,636.0,13.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Afnan,Eau de Parfum,Eau de Parfum,6.94,131.0,10.0,USD,"Midway City, California, United States",0,Cluster 0
+AS SHOWN,Eau de Parfum,Eau de Parfum,36.99,12.0,10.0,USD,"ShenZhen, China",1,Cluster 1
+Xerjoff,Eau de Parfum,Eau de Parfum,11.99,442.0,4.0,USD,"Fort Walton Beach, Florida, United States",0,Cluster 0
+Jaguar,Eau de Toilette,Eau de Toilette,14.57,63.0,54.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Al Rehab,Perfume,Perfume / Parfum,8.99,76.0,7.0,USD,"Lynbrook, New York, United States",0,Cluster 0
+Cologne,Perfume,Perfume / Parfum,19.9,331.0,,USD,"Stony Brook, New York, United States",0,Cluster 0
+BOD man,Fragrance Body Spray,Body Care / Oil,9.99,32.0,3.0,USD,"Multiple Locations, United States",1,Cluster 1
+Diesel,Eau de Toilette,Eau de Toilette,56.0,677.0,3.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Amouage,Eau de Parfum,Eau de Parfum,166.18,78.0,10.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Ralph Lauren,Eau de Cologne,Cologne,29.99,60.0,10.0,USD,"Miami, Florida, United States",1,Cluster 1
+Rasasi,Eau de Parfum,Eau de Parfum,38.0,12.0,8.0,USD,"DELHI, DELHI, India",1,Cluster 1
+Bvlgari,Eau de Toilette,Eau de Toilette,16.48,24.0,10.0,USD,"Austell, Georgia, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,85.0,10.0,10.0,USD,"Houston, Texas, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,41.0,397.0,8.0,USD,"DELHI, DELHI, India",0,Cluster 0
+Dana,Eau de Cologne,Cologne,14.99,647.0,10.0,USD,"Orlando, Florida, United States",0,Cluster 0
+Carolina Herrera,Eau de Toilette,Eau de Toilette,66.52,1963.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,24.0,2.0,3.0,USD,"Arlington Heights, Illinois, United States",1,Cluster 1
+Diesel,Eau de Toilette,Eau de Toilette,26.99,21.0,8.0,USD,"Bogota, New Jersey, United States",1,Cluster 1
+Dvyne Fragrances,Body Oil,Body Care / Oil,8.0,1113.0,10.0,USD,"Fort Lauderdale, Florida, United States",0,Cluster 0
+Parfums de Marly,Parfum,Perfume / Parfum,12.0,19.0,10.0,USD,"Albany, New York, United States",1,Cluster 1
+Afnan,Eau de Perfume,Perfume / Parfum,24.35,692.0,110.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Lapidus,Eau de Toilette,Eau de Toilette,20.08,518.0,29.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Arabian Oud,Fragrances,General Fragrance,99.63,13.0,3.0,USD,"Brooklyn, New York, United States",1,Cluster 1
+Emporio Armani,Perfume,Perfume / Parfum,74.99,82.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Armaf,Eau de Parfum,Eau de Parfum,23.62,415.0,130.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Perry Ellis,Eau de Toilette,Eau de Toilette,40.13,2703.0,9.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Ralph Lauren,Eau de Toilette,Eau de Toilette,28.99,180.0,10.0,USD,"Miami, Florida, United States",0,Cluster 0
+Zara,Eau de Toilette,Eau de Toilette,15.0,3.0,2.0,USD,"Houston, Texas, United States",1,Cluster 1
+Al Haramain,Eau de Parfum,Eau de Parfum,31.98,12.0,10.0,USD,"North Brunswick, New Jersey, United States",1,Cluster 1
+Rasasi,Eau de Parfum,Eau de Parfum,78.0,27.0,6.0,USD,"Astoria, New York, United States",1,Cluster 1
+Sterling,Eau De Parfum,Eau de Parfum,53.42,4.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Falic Fashion Group,Eau de Toilette,Eau de Toilette,29.98,14.0,7.0,USD,"Burlington, Ontario, Canada",1,Cluster 1
+HUGO BOSS,Eau de Toilette,Eau de Toilette,47.26,52.0,88.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Giorgio Armani,Eau de Parfum,Eau de Parfum,94.99,420.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Prada,Eau De Toilette,Eau de Toilette,76.65,30.0,10.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Diesel,Eau de Toilette,Eau de Toilette,29.74,578.0,19.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Jimmy Choo,Eau de Toilette,Eau de Toilette,36.99,16.0,4.0,USD,"Melissa, Texas, United States",1,Cluster 1
+Michel Germain,Eau de Toilette,Eau de Toilette,41.19,258.0,21.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Gianni Versace,Eau de Toilette,Eau de Toilette,69.25,19.0,3.0,USD,"Selinsgrove, Pennsylvania, United States",1,Cluster 1
+Lalique,Eau de Parfum,Eau de Parfum,31.47,397.0,48.0,USD,"Dallas, Texas, United States",0,Cluster 0
+The Baron,Eau de Cologne,Cologne,34.99,1.0,3.0,USD,"Canton, Michigan, United States",1,Cluster 1
+Jean Paul Gaultier,Eau de Toilette,Eau de Toilette,55.99,368.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Liz Claiborne,Eau de Toilette,Eau de Toilette,18.32,211.0,10.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Nina Ricci,Eau de Toilette,Eau de Toilette,120.0,7.0,3.0,USD,"Argyle, Texas, United States",1,Cluster 1
+Vince Camuto,Eau de Toilette,Eau de Toilette,21.21,300.0,8.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Givenchy,Eau de Parfum,Eau de Parfum,80.0,197.0,10.0,USD,"Katy, Texas, United States",1,Cluster 1
+Cartier,Eau de Toilette,Eau de Toilette,49.52,20.0,10.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,54.99,45.0,2.0,USD,"Bellaire, Texas, United States",1,Cluster 1
+Dolce&Gabbana,Eau de Parfum,Eau de Parfum,91.0,1.0,3.0,USD,"Manor, Texas, United States",1,Cluster 1
+BRUT,Eau de Cologne,Cologne,9.78,8.0,50.0,USD,"Ronkonkoma, New York, United States",0,Cluster 0
+Maison Margiela,Eau de Toilette,Eau de Toilette,84.98,42.0,8.0,USD,"Hackensack, New Jersey, United States",1,Cluster 1
+Mercedes Benz,Eau De Toilette,Eau de Toilette,41.87,21.0,8.0,USD,"Edison, New Jersey, United States",1,Cluster 1
+Unbranded,Eau de Parfum,Eau de Parfum,13.99,9.0,10.0,USD,"Dearborn, Michigan, United States",1,Cluster 1
+Carolina Herrera,Eau de Parfum,Eau de Parfum,59.99,496.0,10.0,USD,"Katy, Texas, United States",0,Cluster 0
+Hollister,Eau de Toilette,Eau de Toilette,18.76,227.0,5.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Juicy Couture,Eau de Toilette,Eau de Toilette,22.6,541.0,9.0,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Polo Ralph Lauren,Eau de Toilette,Eau de Toilette,33.0,401.0,4.0,USD,"Chico, California, United States",0,Cluster 0
+Cuba,Eau de Toilette,Eau de Toilette,10.58,391.0,31.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Michael Jordan,Eau de Cologne,Cologne,20.48,2624.0,,USD,"Hackensack, New Jersey, United States",0,Cluster 0
+Yves de Sistelle,Eau de Toilette,Eau de Toilette,18.84,674.0,47.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Perry Ellis,Eau De Toilette,Eau de Toilette,40.72,232.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Givenchy,Eau de Parfum,Eau de Parfum,73.52,8.0,4.0,USD,"Dallas, Texas, United States",1,Cluster 1
+Mandarin Duck,Eau de Toilette,Eau de Toilette,27.99,75.0,10.0,USD,"Edison, New Jersey, United States",0,Cluster 0
+Franck Olivier,Eau de Toilette,Eau de Toilette,24.25,177.0,10.0,USD,"North Brunswick, New Jersey, United States",0,Cluster 0
+Dolce&Gabbana,Eau de Toilette,Eau de Toilette,27.99,24.0,7.0,USD,"Des Moines, Iowa, United States",1,Cluster 1
+GUESS,Eau de Toilette,Eau de Toilette,20.28,1613.0,45.0,USD,"Dallas, Texas, United States",0,Cluster 0
+Armaf,Eau de Toilette,Eau de Toilette,30.58,31.0,10.0,USD,United States,1,Cluster 1
+Paco Rabanne,Eau de Toilette,Eau de Toilette,39.99,305.0,2.0,USD,"Jamaica, New York, United States",1,Cluster 1
+Lomani,Eau de Toilette,Eau de Toilette,9.99,22.0,2.0,USD,"Lincoln Park, Michigan, United States",1,Cluster 1
+Estee Lauder,Cologne spray,Cologne,17.49,24.0,10.0,USD,"Keyport, New Jersey, United States",1,Cluster 1

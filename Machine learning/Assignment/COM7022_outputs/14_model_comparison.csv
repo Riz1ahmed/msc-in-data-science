@@ -1,0 +1,4 @@
+model,parameters,n_clusters,assigned_n,coverage_pct,noise_pct,min_cluster_n,largest_cluster_pct_assigned,silhouette,davies_bouldin,calinski_harabasz
+K-Means,"{'k': 2, 'n_init': 20}",2,997,100.0,0.0,389,60.98,0.24717852941436125,1.5426175069864214,361.6343464137216
+Agglomerative,"{'linkage': 'ward', 'k': 2}",2,997,100.0,0.0,336,66.3,0.21535222692226463,1.701018063138441,270.02824725527125
+DBSCAN,"{'eps': 0.75977, 'min_samples': 15}",5,719,72.12,27.88,16,53.27,0.1761204342687622,1.1662757983916776,96.36460990905817

@@ -1,0 +1,11 @@
+feature,dtype,missing_n,missing_pct,unique_non_null
+Item_Name,str,1,0.1,246
+details,str,0,0.0,966
+Catatory,str,3,0.3,63
+price,float64,5,0.5,600
+priceWithCurrency,str,1,0.1,684
+available,float64,111,11.1,89
+text,str,3,0.3,758
+sold,float64,8,0.8,428
+lastUpdated,str,53,5.3,933
+itemLocation,str,0,0.0,276

@@ -1,0 +1,9 @@
+COM7022 Task 1 - reproducible analysis summary
+Source: Sales-[5444].csv
+Original rows: 1000; modelled USD/unknown-currency rows: 997
+Models compared: K-Means, Agglomerative, DBSCAN
+Suggested model pending human review: K-Means
+PCA two-component explained variance: 67.66%
+Caution: DBSCAN internal metrics exclude noise; other models use full modelling data.
+Caution: sold is cumulative, and available can be censored or missing.
+Official submission also requires code appendix, screenshots, and one Word/PDF file.

@@ -1,0 +1,10 @@
+field,action,records_affected
+price,Recovered from explicitly USD price text,5
+sold,Recovered explicit sold count from stock text,2
+available,Recovered explicitly stated exact N available,0
+available,Recovered Last One as 1 available,47
+Catatory,Standardised into product category groups,1000
+priceWithCurrency,Excluded explicit CAD prices from USD-only modelling,3
+price,Negative values set to missing for median imputation,0
+sold,Negative values set to missing for median imputation,0
+available,Negative values set to missing for median imputation,0
